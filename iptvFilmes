@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3ktE3rS"group-title="Filme", Shazam
+https://d251k804plx2ra.cloudfront.net/RCFServer2/ondemand/SHRZM.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3e5ZMFt"group-title="Filme", Mulher Maravilha 1984
+https://d251k804plx2ra.cloudfront.net/RCFServer5/ondemand/MLHRMRVLHA1984.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3dVrgNU"group-title="Filme", Liga da Justiça
+https://d251k804plx2ra.cloudfront.net/RCFServer4/ondemand/LGDJSTC.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3r6Owwa"group-title="Filme", Sonic: O Filme
+https://d251k804plx2ra.cloudfront.net/RCFServer5/ondemand/SONCOFLM.mp4    
+                   
+#EXTINF:-1 tvg-logo="https://bit.ly/3bTemNL"group-title="Filme", Trolls 2
+https://d251k804plx2ra.cloudfront.net/RCFServer5/ondemand/TRLS2.mp4
