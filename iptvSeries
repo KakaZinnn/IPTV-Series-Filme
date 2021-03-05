@@ -1,5 +1,6 @@
 #EXTM3U
 
+################ Grimm #################
 #EXTINF:-1 tvg-logo="https://bit.ly/3uDGqx5"group-title="Grimm", T01 E01 - Piloto
 https://d251k804plx2ra.cloudfront.net/RCServer10/ondemand/GRIMT01EP01.mp4
 
@@ -134,9 +135,80 @@ https://d251k804plx2ra.cloudfront.net/RCServer10/ondemand/GRIMT02EP21.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3e1NxcC"group-title="Grimm", T02 E22 - Boa Noite, Doce Grimm
 https://d251k804plx2ra.cloudfront.net/RCServer10/ondemand/GRIMT02EP22.mp4
 
+################### 3 temporada Grimm ##################
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30rGpi5"group-title="Grimm", T03 E01 - A Morte Ingrata
+https://d251k804plx2ra.cloudfront.net/RCServer10/ondemand/GRIMT03EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30rGpi5"group-title="Grimm", T03 E02 - PTZD
+https://d251k804plx2ra.cloudfront.net/RCServer10/ondemand/GRIMT03EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30rGpi5"group-title="Grimm", T03 E03 - Um Prato Que Se Serve Frio
+https://d251k804plx2ra.cloudfront.net/RCServer10/ondemand/GRIMT03EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30rGpi5"group-title="Grimm", T03 E04 - Apenas Uma Noite
+https://d251k804plx2ra.cloudfront.net/RCServer10/ondemand/GRIMT03EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30rGpi5"group-title="Grimm", T03 E05 - O Cucuy
+https://d251k804plx2ra.cloudfront.net/RCServer10/ondemand/GRIMT03EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30rGpi5"group-title="Grimm", T03 E06 - História Que Contamos aos Jovens
+https://d251k804plx2ra.cloudfront.net/RCServer10/ondemand/GRIMT03EP06.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30rGpi5"group-title="Grimm", T03 E07 - A Sangue Frio
+https://d251k804plx2ra.cloudfront.net/RCServer10/ondemand/GRIMT03EP07.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30rGpi5"group-title="Grimm", T03 E08 - Doze Dias de Krampus
+https://d251k804plx2ra.cloudfront.net/RCServer10/ondemand/GRIMT03EP08.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30rGpi5"group-title="Grimm", T03 E09 - Ameaça Vermelha
+https://d251k804plx2ra.cloudfront.net/RCServer10/ondemand/GRIMT03EP09.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30rGpi5"group-title="Grimm", T03 E10 - Olhos do Espectador
+https://d251k804plx2ra.cloudfront.net/RCServer10/ondemand/GRIMT03EP10.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30rGpi5"group-title="Grimm", T03 E11 - O Bom Soldado
+https://d251k804plx2ra.cloudfront.net/RCServer10/ondemand/GRIMT03EP11.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30rGpi5"group-title="Grimm", T03 E12 - A Caça Selvagem
+https://d251k804plx2ra.cloudfront.net/RCServer10/ondemand/GRIMT03EP12.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30rGpi5"group-title="Grimm", T03 E13 - Revelação
+https://d251k804plx2ra.cloudfront.net/RCServer10/ondemand/GRIMT03EP13.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30rGpi5"group-title="Grimm", T03 E14 - Mamãe Querida 
+https://d251k804plx2ra.cloudfront.net/RCServer10/ondemand/GRIMT03EP14.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30rGpi5"group-title="Grimm", T03 E15 - Uma Vez Fomos Deuses
+https://d251k804plx2ra.cloudfront.net/RCServer10/ondemand/GRIMT03EP15.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30rGpi5"group-title="Grimm", T03 E16 - O Show Deve Continuar
+https://d251k804plx2ra.cloudfront.net/RCServer10/ondemand/GRIMT03EP16.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30rGpi5"group-title="Grimm", T03 E17 - Sincronicidade
+https://d251k804plx2ra.cloudfront.net/RCServer10/ondemand/GRIMT03EP17.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30rGpi5"group-title="Grimm", T03 E18 - A Lei do Sacrifício
+https://d251k804plx2ra.cloudfront.net/RCServer10/ondemand/GRIMT03EP18.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30rGpi5"group-title="Grimm", T03 E19 - Ninguém Sabe O Que a Trubel Vê
+https://d251k804plx2ra.cloudfront.net/RCServer10/ondemand/GRIMT03EP19.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30rGpi5"group-title="Grimm", T03 E20 - Meu Bom Wesen
+https://d251k804plx2ra.cloudfront.net/RCServer10/ondemand/GRIMT03EP20.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30rGpi5"group-title="Grimm", T03 E21 - A Herança 
+https://d251k804plx2ra.cloudfront.net/RCServer10/ondemand/GRIMT03EP21.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30rGpi5"group-title="Grimm", T03 E22 - Ambição Loira
+https://d251k804plx2ra.cloudfront.net/RCServer10/ondemand/GRIMT03EP22.mp4
+
+##################### 4 temporada Grimm ###############3
+
+https://bit.ly/3bjGk6i
 
 
-#####################THE GOOD DOCTOR###########################
+##################### THE GOOD DOCTOR ###########################
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3b1Le7R"group-title="THE GOOD DOCTOR", T01 E01 - Comida Queimada
 https://d251k804plx2ra.cloudfront.net/RCServer12/ondemand/OBMDTRT01EP01.mp4
