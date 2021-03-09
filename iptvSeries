@@ -1135,3 +1135,18 @@ https://dt8vt4yfpsj2n.cloudfront.net/RCServer15/ondemand/STATN19T04EP01.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3l7Nxth"group-title="Station 19", T04 E02 - Mundo Selvagem 
 https://dt8vt4yfpsj2n.cloudfront.net/RCServer15/ondemand/STATN19T04EP02.mp4
+
+########## Chicago Fire ##########
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3qBqDLP"group-title="Chicago Fire", T01 E01 - Piloto
+https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/CHGOFIRT01EP01.mp4
+
+########## Chicago P.D. ############
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3btEzU3"group-title="Chicago P.D.", T01 E01 - Trampolim
+https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/CHGOPDT01EP01.mp4
+
+######### Chicago Med #########
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3eoaZRH"group-title="Chicago Med", T01 E01 - Descarrilou
+https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/CHGOMEDT01EP01.mp4  
