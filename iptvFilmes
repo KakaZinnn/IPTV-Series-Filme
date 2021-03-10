@@ -1,22 +1,25 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3l3kUxb"group-title="Filme", Raya e o Último Dragão
-https://lia.evosrv.com/EvoSrv/Cg2qcMqMsHLTt0kVhKWp.mp4
+https://lia.evosrv.com/EvoSrv/Cg2qcMqMsHLTt0kVhKWp.mp4?md5=kIpXrpRVYbIFGWsyR8ejfA&expires=1615406806
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3l2bIJL"group-title="Ela Dança, Eu Danço", Ela Dança, Eu Danço
+https://dt8vt4yfpsj2n.cloudfront.net/RCFServer3/ondemand/ELDNCEUDNC1.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3rvDEbf"group-title="Ela Dança, Eu Danço", Ela Dança, Eu Danço 2
+https://dt8vt4yfpsj2n.cloudfront.net/RCFServer3/ondemand/ELDNCEUDNC2.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3qB56ms"group-title="Ela Dança, Eu Danço", Ela Dança, Eu Danço 3
+https://dt8vt4yfpsj2n.cloudfront.net/RCFServer3/ondemand/ELDNCEUDNC3.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3etiYgm"group-title="Ela Dança, Eu Danço", Ela Dança, Eu Danço 4
+https://dt8vt4yfpsj2n.cloudfront.net/RCFServer3/ondemand/ELDNCEUDNC4.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2OHtTYQ"group-title="Ela Dança, Eu Danço", Ela Dança, Eu Danço 5: Tudo ou Nada
+https://dt8vt4yfpsj2n.cloudfront.net/RCFServer3/ondemand/ELDNCEUDNC5.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3qJ0ATn"group-title="Ela Dança, Eu Danço", Ela Dança, Eu Danço 6
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3l3kUxb"group-title="Filme", Raya e o Último Dragão TESTE
-https://lia.evosrv.com/EvoSrv/Cg2qcMqMsHLTt0kVhKWp.mp4?md5=kIpXrpRVYbIFGWsyR8ejfA&expires=1615406806
+https://dt8vt4yfpsj2n.cloudfront.net/RCFServer3/ondemand/ELDNCEUDNC6.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3v7Qajn"group-title="Maze Runner", Maze Runner: Correr ou Morrer
 https://dt8vt4yfpsj2n.cloudfront.net/RCFServer1/ondemand/MZRNRCROMR.mp4
@@ -41,6 +44,9 @@ https://dt8vt4yfpsj2n.cloudfront.net/RCFServer4/ondemand/LGDJSTC.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3r6Owwa"group-title="Filme", Sonic: O Filme
 https://dt8vt4yfpsj2n.cloudfront.net/RCFServer5/ondemand/SONCOFLM.mp4  
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2ObweM5"group-title="Filme", Perdido em Marte
+https://dt8vt4yfpsj2n.cloudfront.net/RCFServer2/ondemand/PRDEMMRTE.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/38dLwGN"group-title="Trolls", Trolls 
 https://dt8vt4yfpsj2n.cloudfront.net/RCFServer3/ondemand/TRLS.mp4 
