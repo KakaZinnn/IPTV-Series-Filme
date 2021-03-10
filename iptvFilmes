@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3v7Qajn"group-title="Maze Runner", Maze Runner: Correr ou Morrer
+https://dt8vt4yfpsj2n.cloudfront.net/RCFServer1/ondemand/MZRNRCROMR.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3v4CUMx"group-title="Maze Runner", Maze Runner: Prova de Fogo 
+https://dt8vt4yfpsj2n.cloudfront.net/RCFServer3/ondemand/MZRNRPRVDFG.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/38pjE2x"group-title="Maze Runner", Maze Runner: A Cura Mortal
+https://dt8vt4yfpsj2n.cloudfront.net/RCFServer4/ondemand/MAZRNERACRMRTL.mp4
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3ktE3rS"group-title="Filme", Shazam
 https://dt8vt4yfpsj2n.cloudfront.net/RCFServer2/ondemand/SHRZM.mp4
 
@@ -81,4 +90,4 @@ https://dt8vt4yfpsj2n.cloudfront.net/RCFServer5/ondemand/BRBIEMDAEMGIA.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3sWeqDm"group-title="Barbie", Barbie E o Segredo Das Fadas - 2011
 https://dt8vt4yfpsj2n.cloudfront.net/RCFServer5/ondemand/BRBIEEOSGRDODSFDS.mp4
 
-Barbie Escola de Princesas - 2011
+Barbie Escola de Princesas - 2011 
