@@ -1,0 +1,63 @@
+#EXTM3U
+#############canal fechado##############
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3snXXHF"group-title="Canal Fechado", Discovery Turbo
+https://bit.ly/3dUAMk2
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3klcf96"group-title="Canal Fechado", Discovery Home Health
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discoveryhomeihealth.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3pZWnKF"group-title="Canal Fechado", Discovery Channel
+https://bit.ly/3uuKVKs Nao ta pegando
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2ZOitoE"group-title="Canal Fechado", Sony
+https://bit.ly/3qWKoyG
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3aZndOB"group-title="Canal Fechado", Comedy Central
+https://bit.ly/3suUZB3
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3uA9O7m"group-title="Canal Fechado", Multishow
+https://bit.ly/3kr96Vg
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3aRsPu5"group-title="Canal Fechado", Nickelodeon
+https://bit.ly/3uwcjHV
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3sp0dOL"group-title="Canal Fechado", Disney XD
+https://bit.ly/3pWDDeG
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2ZM0wqy"group-title="Canal Fechado", Disney Channel
+https://bit.ly/3koKU5W
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3uv52bq"group-title="Canal Fechado", Cartoon Network
+https://bit.ly/3aQvpk5
+
+#############canal Aberto##############
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2ZXcpKl"group-title="Canal Aberto", Globo
+https://bit.ly/3pVaGjs
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3sFHZsL"group-title="Canal Aberto", SBT
+https://bit.ly/3pPnzeQ
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Mq4Jxb"group-title="Canal Aberto", Band
+https://bit.ly/2NHVjxN
+
+#EXTINF:-1 tvg-logo="https://bit.ly/37PGWyb"group-title="Canal Aberto", Record TV
+https://bit.ly/37NyAas
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2O2ypRm"group-title="Canal Aberto", Cultura
+https://bit.ly/3pOt25G
+
+#############canal religioso#############
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2O5DKaR"group-title="Canal Religioso", Canção Nova
+https://bit.ly/3aWFMCR
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3kqLnoe"group-title="Canal Religioso", Rede Vida
+https://bit.ly/3q0cbwT
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2MtNI5f"group-title="Canal Religioso", TV Aparecida
+https://bit.ly/2ZVRfwg
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2ZSiAzl"group-title="Canal Religioso", TV Novo Tempo
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/tvnovotempo_9ee0df7c_fe06ae9c10bb3079a11261c13102ef64872205d2/480p/chunklist.m3u8
