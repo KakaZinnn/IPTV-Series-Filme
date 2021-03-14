@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://bit.ly/2Nj1oR6"group-title="Filme", Sing - Quem Canta Seus Males Espanta
+https://dt8vt4yfpsj2n.cloudfront.net/RCFServer3/ondemand/SNGQCSME.mp4
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3ktE3rS"group-title="Filme", Shazam
 https://dt8vt4yfpsj2n.cloudfront.net/RCFServer2/ondemand/SHRZM.mp4
 
