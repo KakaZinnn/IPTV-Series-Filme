@@ -12,6 +12,9 @@ https://dt8vt4yfpsj2n.cloudfront.net/RCFServer5/ondemand/SONCOFLM.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/2ObweM5"group-title="Filme", Perdido em Marte
 https://dt8vt4yfpsj2n.cloudfront.net/RCFServer2/ondemand/PRDEMMRTE.mp4
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3eBTxJG"group-title="Filme", Isolado na Pandemia
+https://dt8vt4yfpsj2n.cloudfront.net/RCFServer5/ondemand/ISLDNPNDM.mp4
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3l3kUxb"group-title="Filme", Raya e o Último Dragão
 https://www.googleapis.com/drive/v3/files/1Chgb6Q1ysulqGugV57uQaosm5BNLE8sY?alt=media&key=AIzaSyA-WeGvf4y7Pc9sW3msn_roKJWZrR96gP4
 
@@ -23,6 +26,28 @@ https://www.googleapis.com/drive/v3/files/15Tjf2ATQug3pmVcEqlTwFCMR71KgaWxW?alt=
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3vij9kr"group-title="Filme", Um Sonho Possível
 https://www.googleapis.com/drive/v3/files/1yQ4zNzEZ4_w2P3WkodYwOXTmc4yfwq8C?alt=media&key=AIzaSyA-WeGvf4y7Pc9sW3msn_roKJWZrR96gP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3cm9IYA"group-title="Filme", Killer Bean – O Super Herói
+https://www.googleapis.com/drive/v3/files/18OHCMFIF_j0IhSOcRQL3xgn0UTMJ5x30?alt=media&key=AIzaSyA-WeGvf4y7Pc9sW3msn_roKJWZrR96gP4
+
+################ Animais Fantásticos ##############
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2OS3Tu8"group-title="Animais Fantásticos", Animais Fantásticos e Onde Habitam
+https://dt8vt4yfpsj2n.cloudfront.net/RCFServer3/ondemand/ANMSFNTSTCEONDHBTM.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3eARQfr"group-title="Animais Fantásticos", Animais Fantásticos: Os Crimes de Grindelwald
+https://dt8vt4yfpsj2n.cloudfront.net/RCFServer3/ondemand/ANMSFNTSTCOSCRMSDGRLWRD.mp4
+
+################ Deadpool #######################
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3voDLrm"group-title="Deadpool", Deadpool
+https://dt8vt4yfpsj2n.cloudfront.net/RCFServer2/ondemand/DEADP.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3bMf5BA"group-title="Deadpool", Deadpool 2
+https://dt8vt4yfpsj2n.cloudfront.net/RCFServer4/ondemand/DEADP2.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Q0HjQy"group-title="Deadpool", Deadpool : Era uma Vez um Deadpool
+https://dt8vt4yfpsj2n.cloudfront.net/RCFServer3/ondemand/ERUMVZDEDPL.mp4
 
 ############# Ela Dança, Eu Danço ########################
 
@@ -36,7 +61,7 @@ https://dt8vt4yfpsj2n.cloudfront.net/RCFServer3/ondemand/ELDNCEUDNC2.mp4
 https://dt8vt4yfpsj2n.cloudfront.net/RCFServer3/ondemand/ELDNCEUDNC3.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3etiYgm"group-title="Ela Dança, Eu Danço", Ela Dança, Eu Danço 4
-https://dt8vt4yfpsj2n.cloudfront.net/RCFServer3/ondemand/ELDNCEUDNC4.mp4 
+https://dt8vt4yfpsj2n.cloudfront.net/RCFServer3/ondemand/ELDNCEUDNC4.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2OHtTYQ"group-title="Ela Dança, Eu Danço", Ela Dança, Eu Danço 5: Tudo ou Nada
 https://dt8vt4yfpsj2n.cloudfront.net/RCFServer3/ondemand/ELDNCEUDNC5.mp4
@@ -142,4 +167,4 @@ https://dt8vt4yfpsj2n.cloudfront.net/RCFServer5/ondemand/BRBIEEMVDADSREIA.mp4
 https://dt8vt4yfpsj2n.cloudfront.net/RCFServer5/ondemand/BRBIEMDAEMGIA.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3sWeqDm"group-title="Barbie", Barbie E o Segredo Das Fadas - 2011
-https://dt8vt4yfpsj2n.cloudfront.net/RCFServer5/ondemand/BRBIEEOSGRDODSFDS.mp4 
+https://dt8vt4yfpsj2n.cloudfront.net/RCFServer5/ondemand/BRBIEEOSGRDODSFDS.mp4
