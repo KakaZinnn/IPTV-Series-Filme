@@ -2,7 +2,11 @@
 #############canal fechado##############
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3snXXHF"group-title="Canal Fechado", Discovery Turbo
-https://bit.ly/3dUAMk2
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discoveryturbo.m3u8?mu3zAQc9HC3GbwJq=_mQjmTlqoK2Y5PXj1xStOA&3U1G7qaTxrPbalZnEx=1615920372
+
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3snXXHF"group-title="Canal Fechado", Discovery Turbo Teste
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discoveryturbo.m3u8?mu3zAQc9HC3GbwJq=_mQjmTlqoK2Y5PXj1xStOA&3U1G7qaTxrPbalZnEx=1615919782
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3klcf96"group-title="Canal Fechado", Discovery Home Health 
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discoveryhomeihealth.m3u8?mu3zAQc9HC3GbwJq=V-0_aYgiq4WE30JdOYLgAw&3U1G7qaTxrPbalZnEx=1615919782
