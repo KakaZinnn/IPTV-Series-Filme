@@ -5,7 +5,10 @@
 https://bit.ly/3dUAMk2
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3klcf96"group-title="Canal Fechado", Discovery Home Health
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discoveryhomeihealth.m3u8?mu3zAQc9HC3GbwJq=yGwkhKJee7E07EQaijCYfQ&3U1G7qaTxrPbalZnEx=1615516271
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discoveryhomeihealth.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3klcf96"group-title="Canal Fechado", Discovery Home Health Teste
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discoveryhomeihealth.m3u8?mu3zAQc9HC3GbwJq=V-0_aYgiq4WE30JdOYLgAw&3U1G7qaTxrPbalZnEx=1615919782
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3pZWnKF"group-title="Canal Fechado", Discovery Channel
 https://bit.ly/3uuKVKs Nao ta pegando
@@ -57,7 +60,7 @@ https://bit.ly/3aWFMCR
 https://bit.ly/3q0cbwT
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2MtNI5f"group-title="Canal Religioso", TV Aparecida
-https://bit.ly/2ZVRfwg
+https://bit.ly/2ZVRfw
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2ZSiAzl"group-title="Canal Religioso", TV Novo Tempo
 https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/tvnovotempo_9ee0df7c_fe06ae9c10bb3079a11261c13102ef64872205d2/480p/chunklist.m3u8 
