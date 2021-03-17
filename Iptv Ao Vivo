@@ -1,1239 +1,1311 @@
 #EXTM3U
+#EXTINF:-1,#EVENTOS 01
+http://pfsv.io:80/regina/123456/33377
+#EXTINF:-1,A&E FHD
+http://pfsv.io:80/regina/123456/293
+#EXTINF:-1,A&E FHD[H265]
+http://pfsv.io:80/regina/123456/30227
 #EXTINF:-1,A&E HD
-http://canais.servidor.tv:8080/joel/joel123/1521
-#EXTINF:-1,A&E HD+
-http://canais.servidor.tv:8080/joel/joel123/375
-#EXTINF:-1,Aeroporto Área Restrita
-http://canais.servidor.tv:8080/joel/joel123/32595
+http://pfsv.io:80/regina/123456/299
+#EXTINF:-1,A&E SD
+http://pfsv.io:80/regina/123456/324
+#EXTINF:-1,AMC FHD
+http://pfsv.io:80/regina/123456/294
+#EXTINF:-1,AMC FHD[H265]
+http://pfsv.io:80/regina/123456/30228
 #EXTINF:-1,AMC HD
-http://canais.servidor.tv:8080/joel/joel123/1498
-#EXTINF:-1,AMC HD+
-http://canais.servidor.tv:8080/joel/joel123/373
+http://pfsv.io:80/regina/123456/300
+#EXTINF:-1,AMC SD
+http://pfsv.io:80/regina/123456/325
+#EXTINF:-1,Animal Planet FHD
+http://pfsv.io:80/regina/123456/164
+#EXTINF:-1,Animal Planet FHD [H265]
+http://pfsv.io:80/regina/123456/30248
 #EXTINF:-1,Animal Planet HD
-http://canais.servidor.tv:8080/joel/joel123/1497
-#EXTINF:-1,Animal Planet HD+
-http://canais.servidor.tv:8080/joel/joel123/371
-#EXTINF:-1,Arte 1 HD+
-http://canais.servidor.tv:8080/joel/joel123/15
-#EXTINF:-1,As Aventuras de Jackie Chan
-http://canais.servidor.tv:8080/joel/joel123/32589
+http://pfsv.io:80/regina/123456/179
+#EXTINF:-1,Animal Planet SD
+http://pfsv.io:80/regina/123456/194
+#EXTINF:-1,Animal Planet [4K]
+http://pfsv.io:80/regina/123456/588
+#EXTINF:-1,Arte 1 FHD
+http://pfsv.io:80/regina/123456/165
+#EXTINF:-1,Arte 1 FHD [H265]
+http://pfsv.io:80/regina/123456/30249
+#EXTINF:-1,Arte 1 HD
+http://pfsv.io:80/regina/123456/180
+#EXTINF:-1,Arte 1 SD
+http://pfsv.io:80/regina/123456/195
+#EXTINF:-1,AXN FHD
+http://pfsv.io:80/regina/123456/295
+#EXTINF:-1,AXN FHD[H265]
+http://pfsv.io:80/regina/123456/30206
+#EXTINF:-1,AXN FHD[LEG]
+http://pfsv.io:80/regina/123456/49101
 #EXTINF:-1,AXN HD
-http://canais.servidor.tv:8080/joel/joel123/1496
-#EXTINF:-1,AXN HD+
-http://canais.servidor.tv:8080/joel/joel123/369
+http://pfsv.io:80/regina/123456/301
+#EXTINF:-1,AXN HD [LEG]
+http://pfsv.io:80/regina/123456/209
+#EXTINF:-1,AXN SD
+http://pfsv.io:80/regina/123456/326
+#EXTINF:-1,AXN SD [LEG]
+http://pfsv.io:80/regina/123456/210
+#EXTINF:-1,AXN [4K]
+http://pfsv.io:80/regina/123456/50863
 #EXTINF:-1,Baby TV SD
-http://canais.servidor.tv:8080/joel/joel123/367
-#EXTINF:-1,Band HD
-http://canais.servidor.tv:8080/joel/joel123/489
-#EXTINF:-1,Band HD+
-http://canais.servidor.tv:8080/joel/joel123/484
+http://pfsv.io:80/regina/123456/149
+#EXTINF:-1,Band Campinas HD
+http://pfsv.io:80/regina/123456/50876
+#EXTINF:-1,BAND Campinas SD
+http://pfsv.io:80/regina/123456/32537
+#EXTINF:-1,BAND FHD [H265]
+http://pfsv.io:80/regina/123456/30181
+#EXTINF:-1,Band Internacional
+http://pfsv.io:80/regina/123456/518
+#EXTINF:-1,Band News FHD
+http://pfsv.io:80/regina/123456/510
+#EXTINF:-1,Band News FHD [H265]
+http://pfsv.io:80/regina/123456/30195
 #EXTINF:-1,Band News HD
-http://canais.servidor.tv:8080/joel/joel123/1494
-#EXTINF:-1,Band News HD+
-http://canais.servidor.tv:8080/joel/joel123/363
+http://pfsv.io:80/regina/123456/514
+#EXTINF:-1,Band News SD
+http://pfsv.io:80/regina/123456/520
+#EXTINF:-1,BAND Nordeste SD
+http://pfsv.io:80/regina/123456/32538
+#EXTINF:-1,Band SP FHD
+http://pfsv.io:80/regina/123456/44
+#EXTINF:-1,Band SP HD
+http://pfsv.io:80/regina/123456/50
+#EXTINF:-1,Band SP SD
+http://pfsv.io:80/regina/123456/65
+#EXTINF:-1,Band SP [4K]
+http://pfsv.io:80/regina/123456/580
+#EXTINF:-1,Band Sport FHD
+http://pfsv.io:80/regina/123456/247
+#EXTINF:-1,Band Sports FHD[H265]
+http://pfsv.io:80/regina/123456/30275
 #EXTINF:-1,Band Sports HD
-http://canais.servidor.tv:8080/joel/joel123/1495
-#EXTINF:-1,Band Sports HD+
-http://canais.servidor.tv:8080/joel/joel123/360
-#EXTINF:-1,BIS HD
-http://canais.servidor.tv:8080/joel/joel123/1493
-#EXTINF:-1,BIS HD+
-http://canais.servidor.tv:8080/joel/joel123/358
-#EXTINF:-1,Boa Vontade SD
-http://canais.servidor.tv:8080/joel/joel123/22508
-#EXTINF:-1,Bob Esponja
-http://canais.servidor.tv:8080/joel/joel123/32590
-#EXTINF:-1,Boomerang HD
-http://canais.servidor.tv:8080/joel/joel123/1492
-#EXTINF:-1,Boomerang HD+
-http://canais.servidor.tv:8080/joel/joel123/355
-#EXTINF:-1,Canal Brasil HD
-http://canais.servidor.tv:8080/joel/joel123/353
-#EXTINF:-1,Canal do Boi HD
-http://canais.servidor.tv:8080/joel/joel123/29771
-#EXTINF:-1,Canal Rural HD
-http://canais.servidor.tv:8080/joel/joel123/29770
-#EXTINF:-1,Cartoon Network HD
-http://canais.servidor.tv:8080/joel/joel123/1491
-#EXTINF:-1,Cartoon Network HD+
-http://canais.servidor.tv:8080/joel/joel123/349
-#EXTINF:-1,Chaves
-http://canais.servidor.tv:8080/joel/joel123/32626
-#EXTINF:-1,Cinemax HD
-http://canais.servidor.tv:8080/joel/joel123/1490
-#EXTINF:-1,Cinemax HD+
-http://canais.servidor.tv:8080/joel/joel123/347
-#EXTINF:-1,Clássicos Walt Disney
-http://canais.servidor.tv:8080/joel/joel123/32624
-#EXTINF:-1,CNN Brasil HD
-http://canais.servidor.tv:8080/joel/joel123/21417
-#EXTINF:-1,CNN Brasil HD+
-http://canais.servidor.tv:8080/joel/joel123/21418
-#EXTINF:-1,CNN Espanhol SD
-http://canais.servidor.tv:8080/joel/joel123/345
-#EXTINF:-1,CNN Internacional SD
-http://canais.servidor.tv:8080/joel/joel123/344
-#EXTINF:-1,Combate HD
-http://canais.servidor.tv:8080/joel/joel123/1489
-#EXTINF:-1,Combate HD+
-http://canais.servidor.tv:8080/joel/joel123/342
-#EXTINF:-1,Comedy Central HD
-http://canais.servidor.tv:8080/joel/joel123/1488
-#EXTINF:-1,Comedy Central HD+
-http://canais.servidor.tv:8080/joel/joel123/340
-#EXTINF:-1,Cultura HD
-http://canais.servidor.tv:8080/joel/joel123/29772
-#EXTINF:-1,Curta! SD
-http://canais.servidor.tv:8080/joel/joel123/338
-#EXTINF:-1,DAZN HD
-http://canais.servidor.tv:8080/joel/joel123/2716
-#EXTINF:-1,Discovery Channel HD
-http://canais.servidor.tv:8080/joel/joel123/1487
-#EXTINF:-1,Discovery Channel HD+
-http://canais.servidor.tv:8080/joel/joel123/337
-#EXTINF:-1,Discovery Home & Health HD
-http://canais.servidor.tv:8080/joel/joel123/1518
-#EXTINF:-1,Discovery Home & Health HD+
-http://canais.servidor.tv:8080/joel/joel123/334
-#EXTINF:-1,Discovery Kids HD
-http://canais.servidor.tv:8080/joel/joel123/1483
-#EXTINF:-1,Discovery Kids HD+
-http://canais.servidor.tv:8080/joel/joel123/332
-#EXTINF:-1,Discovery Science HD
-http://canais.servidor.tv:8080/joel/joel123/1482
-#EXTINF:-1,Discovery Science HD+
-http://canais.servidor.tv:8080/joel/joel123/330
-#EXTINF:-1,Discovery Theater HD
-http://canais.servidor.tv:8080/joel/joel123/1486
-#EXTINF:-1,Discovery Theater HD+
-http://canais.servidor.tv:8080/joel/joel123/329
-#EXTINF:-1,Discovery Turbo HD
-http://canais.servidor.tv:8080/joel/joel123/1481
-#EXTINF:-1,Discovery Turbo HD+
-http://canais.servidor.tv:8080/joel/joel123/328
-#EXTINF:-1,Discovery World HD
-http://canais.servidor.tv:8080/joel/joel123/1485
-#EXTINF:-1,Discovery World HD+
-http://canais.servidor.tv:8080/joel/joel123/326
-#EXTINF:-1,Disney Channel HD
-http://canais.servidor.tv:8080/joel/joel123/1480
-#EXTINF:-1,Disney Channel HD+
-http://canais.servidor.tv:8080/joel/joel123/325
-#EXTINF:-1,Disney Júnior HD
-http://canais.servidor.tv:8080/joel/joel123/1478
-#EXTINF:-1,Disney Júnior HD+
-http://canais.servidor.tv:8080/joel/joel123/323
-#EXTINF:-1,Disney XD HD
-http://canais.servidor.tv:8080/joel/joel123/1517
-#EXTINF:-1,Disney XD HD+
-http://canais.servidor.tv:8080/joel/joel123/683
-#EXTINF:-1,Dragon Ball Heroes
-http://canais.servidor.tv:8080/joel/joel123/32594
-#EXTINF:-1,Dragon Ball Super
-http://canais.servidor.tv:8080/joel/joel123/32623
-#EXTINF:-1,Dragon Ball Z
-http://canais.servidor.tv:8080/joel/joel123/32622
-#EXTINF:-1,E! HD
-http://canais.servidor.tv:8080/joel/joel123/318
-#EXTINF:-1,ESPN 2 HD
-http://canais.servidor.tv:8080/joel/joel123/1476
-#EXTINF:-1,ESPN 2 HD+
-http://canais.servidor.tv:8080/joel/joel123/314
-#EXTINF:-1,ESPN Brasil HD
-http://canais.servidor.tv:8080/joel/joel123/1475
-#EXTINF:-1,ESPN Brasil HD+
-http://canais.servidor.tv:8080/joel/joel123/313
-#EXTINF:-1,ESPN Extra HD+
-http://canais.servidor.tv:8080/joel/joel123/311
-#EXTINF:-1,ESPN HD
-http://canais.servidor.tv:8080/joel/joel123/1477
-#EXTINF:-1,ESPN HD+
-http://canais.servidor.tv:8080/joel/joel123/309
-#EXTINF:-1,Eu a Patroa e as Crianças
-http://canais.servidor.tv:8080/joel/joel123/32621
-#EXTINF:-1,Fish TV SD
-http://canais.servidor.tv:8080/joel/joel123/307
-#EXTINF:-1,Food Netword HD
-http://canais.servidor.tv:8080/joel/joel123/1474
-#EXTINF:-1,Food Network HD+
-http://canais.servidor.tv:8080/joel/joel123/306
-#EXTINF:-1,Fox HD
-http://canais.servidor.tv:8080/joel/joel123/1473
-#EXTINF:-1,Fox HD+
-http://canais.servidor.tv:8080/joel/joel123/304
-#EXTINF:-1,Fox Life HD
-http://canais.servidor.tv:8080/joel/joel123/1472
-#EXTINF:-1,Fox Life HD+
-http://canais.servidor.tv:8080/joel/joel123/303
-#EXTINF:-1,Fox Premium 1 HD
-http://canais.servidor.tv:8080/joel/joel123/1505
-#EXTINF:-1,Fox Premium 1 HD+
-http://canais.servidor.tv:8080/joel/joel123/29767
-#EXTINF:-1,Fox Premium 2 HD
-http://canais.servidor.tv:8080/joel/joel123/29768
-#EXTINF:-1,Fox Premium 2 HD+
-http://canais.servidor.tv:8080/joel/joel123/29769
-#EXTINF:-1,Fox Sports 2 HD
-http://canais.servidor.tv:8080/joel/joel123/1501
-#EXTINF:-1,Fox Sports 2 HD+
-http://canais.servidor.tv:8080/joel/joel123/300
-#EXTINF:-1,Fox Sports HD
-http://canais.servidor.tv:8080/joel/joel123/1502
-#EXTINF:-1,Fox Sports HD+
-http://canais.servidor.tv:8080/joel/joel123/298
-#EXTINF:-1,FX HD
-http://canais.servidor.tv:8080/joel/joel123/1469
-#EXTINF:-1,FX HD+
-http://canais.servidor.tv:8080/joel/joel123/294
-#EXTINF:-1,Galinha Pintadinha
-http://canais.servidor.tv:8080/joel/joel123/32609
-#EXTINF:-1,Globo Bahia HD+
-http://canais.servidor.tv:8080/joel/joel123/2707
-#EXTINF:-1,Globo Bahia SD
-http://canais.servidor.tv:8080/joel/joel123/260
-#EXTINF:-1,Globo Brasilia HD
-http://canais.servidor.tv:8080/joel/joel123/291
-#EXTINF:-1,Globo Centro America HD+
-http://canais.servidor.tv:8080/joel/joel123/2712
-#EXTINF:-1,Globo EPTV Campinas HD
-http://canais.servidor.tv:8080/joel/joel123/289
-#EXTINF:-1,Globo EPTV Campinas HD+
-http://canais.servidor.tv:8080/joel/joel123/2711
-#EXTINF:-1,Globo EPTV Ribeirão Preto HD
-http://canais.servidor.tv:8080/joel/joel123/287
-#EXTINF:-1,Globo EPTV Ribeirão Preto HD+
-http://canais.servidor.tv:8080/joel/joel123/2952
-#EXTINF:-1,Globo EPTV Sul Minas HD
-http://canais.servidor.tv:8080/joel/joel123/4469
-#EXTINF:-1,Globo EPTV Sul Minas HD+
-http://canais.servidor.tv:8080/joel/joel123/4468
-#EXTINF:-1,Globo EPTV São Carlos HD
-http://canais.servidor.tv:8080/joel/joel123/2941
-#EXTINF:-1,Globo EPTV São Carlos HD+
-http://canais.servidor.tv:8080/joel/joel123/2940
-#EXTINF:-1,Globo Goiânia SD
-http://canais.servidor.tv:8080/joel/joel123/262
-#EXTINF:-1,Globo Inter TV Grande Minas HD
-http://canais.servidor.tv:8080/joel/joel123/4471
-#EXTINF:-1,Globo Inter TV Grande Minas HD+
-http://canais.servidor.tv:8080/joel/joel123/4470
-#EXTINF:-1,Globo Manaus
-http://canais.servidor.tv:8080/joel/joel123/19
-#EXTINF:-1,Globo Minas HD
-http://canais.servidor.tv:8080/joel/joel123/279
-#EXTINF:-1,Globo Minas HD+
-http://canais.servidor.tv:8080/joel/joel123/2713
-#EXTINF:-1,Globo News HD
-http://canais.servidor.tv:8080/joel/joel123/1468
-#EXTINF:-1,Globo News HD+
-http://canais.servidor.tv:8080/joel/joel123/277
-#EXTINF:-1,Globo Nordeste HD
-http://canais.servidor.tv:8080/joel/joel123/275
-#EXTINF:-1,Globo Nordeste HD+
-http://canais.servidor.tv:8080/joel/joel123/2714
-#EXTINF:-1,Globo NSC Floripa HD+
-http://canais.servidor.tv:8080/joel/joel123/2710
-#EXTINF:-1,Globo RBS Poa HD
-http://canais.servidor.tv:8080/joel/joel123/1467
-#EXTINF:-1,Globo RBS Poa HD+
-http://canais.servidor.tv:8080/joel/joel123/271
-#EXTINF:-1,Globo RJ HD
-http://canais.servidor.tv:8080/joel/joel123/1504
-#EXTINF:-1,Globo RJ HD+
-http://canais.servidor.tv:8080/joel/joel123/268
-#EXTINF:-1,Globo RPC Paranaense HD+
-http://canais.servidor.tv:8080/joel/joel123/2709
-#EXTINF:-1,Globo RPC SD
-http://canais.servidor.tv:8080/joel/joel123/266
-#EXTINF:-1,Globo S.J Rio Preto HD
-http://canais.servidor.tv:8080/joel/joel123/2945
-#EXTINF:-1,Globo S.J Rio Preto HD+
-http://canais.servidor.tv:8080/joel/joel123/2944
-#EXTINF:-1,Globo Sergipe HD+
-http://canais.servidor.tv:8080/joel/joel123/250
-#EXTINF:-1,Globo São Paulo HD
-http://canais.servidor.tv:8080/joel/joel123/1466
-#EXTINF:-1,Globo São Paulo HD+
-http://canais.servidor.tv:8080/joel/joel123/265
-#EXTINF:-1,Globo TV Anhanguera HD+
-http://canais.servidor.tv:8080/joel/joel123/2708
-#EXTINF:-1,Globo TV Diario Mogi HD
-http://canais.servidor.tv:8080/joel/joel123/2947
-#EXTINF:-1,Globo TV Diario Mogi HD+
-http://canais.servidor.tv:8080/joel/joel123/2946
-#EXTINF:-1,Globo TV Fronteira HD
-http://canais.servidor.tv:8080/joel/joel123/2943
-#EXTINF:-1,Globo TV Fronteira HD+
-http://canais.servidor.tv:8080/joel/joel123/2942
-#EXTINF:-1,Globo TV Gazeta Alagoas HD+
-http://canais.servidor.tv:8080/joel/joel123/4467
-#EXTINF:-1,Globo TV Gazeta HD+
-http://canais.servidor.tv:8080/joel/joel123/75
-#EXTINF:-1,Globo TV Integração HD
-http://canais.servidor.tv:8080/joel/joel123/22505
-#EXTINF:-1,Globo TV Integração HD+
-http://canais.servidor.tv:8080/joel/joel123/22504
-#EXTINF:-1,Globo TV Liberal
-http://canais.servidor.tv:8080/joel/joel123/2706
-#EXTINF:-1,Globo TV Mirante HD+
-http://canais.servidor.tv:8080/joel/joel123/2705
-#EXTINF:-1,Globo TV Morena HD+
-http://canais.servidor.tv:8080/joel/joel123/2704
-#EXTINF:-1,Globo TV Santa Cruz SD
-http://canais.servidor.tv:8080/joel/joel123/29774
-#EXTINF:-1,Globo TV TEM Sorocaba HD
-http://canais.servidor.tv:8080/joel/joel123/2949
-#EXTINF:-1,Globo TV TEM Sorocaba HD+
-http://canais.servidor.tv:8080/joel/joel123/2948
-#EXTINF:-1,Globo TV TRIBUNA HD
-http://canais.servidor.tv:8080/joel/joel123/2954
-#EXTINF:-1,Globo TV TRIBUNA HD+
-http://canais.servidor.tv:8080/joel/joel123/2953
-#EXTINF:-1,Globo TV VANGUARDA HD
-http://canais.servidor.tv:8080/joel/joel123/2951
-#EXTINF:-1,Globo TV VANGUARDA HD+
-http://canais.servidor.tv:8080/joel/joel123/2950
-#EXTINF:-1,Globo TV Verdes Mares HD+
-http://canais.servidor.tv:8080/joel/joel123/2703
-#EXTINF:-1,Gloob HD
-http://canais.servidor.tv:8080/joel/joel123/1499
-#EXTINF:-1,Gloob HD+
-http://canais.servidor.tv:8080/joel/joel123/686
-#EXTINF:-1,Gloobinho HD
-http://canais.servidor.tv:8080/joel/joel123/1515
-#EXTINF:-1,Gloobinho HD+
-http://canais.servidor.tv:8080/joel/joel123/237
-#EXTINF:-1,GNT HD
-http://canais.servidor.tv:8080/joel/joel123/235
-#EXTINF:-1,H2 HD
-http://canais.servidor.tv:8080/joel/joel123/1465
-#EXTINF:-1,H2 HD+
-http://canais.servidor.tv:8080/joel/joel123/233
-#EXTINF:-1,HBO 2 HD
-http://canais.servidor.tv:8080/joel/joel123/1460
-#EXTINF:-1,HBO 2 HD+
-http://canais.servidor.tv:8080/joel/joel123/231
-#EXTINF:-1,HBO Family HD
-http://canais.servidor.tv:8080/joel/joel123/1464
-#EXTINF:-1,HBO Family HD+
-http://canais.servidor.tv:8080/joel/joel123/229
-#EXTINF:-1,HBO HD
-http://canais.servidor.tv:8080/joel/joel123/1463
-#EXTINF:-1,HBO HD+
-http://canais.servidor.tv:8080/joel/joel123/227
-#EXTINF:-1,HBO Mundi HD
-http://canais.servidor.tv:8080/joel/joel123/1457
-#EXTINF:-1,HBO Mundi HD+
-http://canais.servidor.tv:8080/joel/joel123/211
-#EXTINF:-1,HBO Plus HD
-http://canais.servidor.tv:8080/joel/joel123/1462
-#EXTINF:-1,HBO Plus HD+
-http://canais.servidor.tv:8080/joel/joel123/226
-#EXTINF:-1,HBO Pop HD
-http://canais.servidor.tv:8080/joel/joel123/1455
-#EXTINF:-1,HBO Pop HD+
-http://canais.servidor.tv:8080/joel/joel123/207
-#EXTINF:-1,HBO Signature HD
-http://canais.servidor.tv:8080/joel/joel123/1461
-#EXTINF:-1,HBO Signature HD+
-http://canais.servidor.tv:8080/joel/joel123/224
-#EXTINF:-1,HBO Xtreme HD
-http://canais.servidor.tv:8080/joel/joel123/1456
-#EXTINF:-1,HBO Xtreme HD+
-http://canais.servidor.tv:8080/joel/joel123/209
-#EXTINF:-1,History Channel HD
-http://canais.servidor.tv:8080/joel/joel123/1459
-#EXTINF:-1,History Channel HD+
-http://canais.servidor.tv:8080/joel/joel123/95
-#EXTINF:-1,Investigacao Discovery SD
-http://canais.servidor.tv:8080/joel/joel123/1514
-#EXTINF:-1,Investigação Discovery HD+
-http://canais.servidor.tv:8080/joel/joel123/218
-#EXTINF:-1,Lifetime HD
-http://canais.servidor.tv:8080/joel/joel123/1458
-#EXTINF:-1,Lifetime HD+
-http://canais.servidor.tv:8080/joel/joel123/216
-#EXTINF:-1,Luluzinha
-http://canais.servidor.tv:8080/joel/joel123/32629
-#EXTINF:-1,Mais Globosat HD
-http://canais.servidor.tv:8080/joel/joel123/213
-#EXTINF:-1,Masha e o Urso
-http://canais.servidor.tv:8080/joel/joel123/32593
-#EXTINF:-1,Medabots
-http://canais.servidor.tv:8080/joel/joel123/32608
-#EXTINF:-1,Megapix HD
-http://canais.servidor.tv:8080/joel/joel123/1454
-#EXTINF:-1,Megapix HD+
-http://canais.servidor.tv:8080/joel/joel123/204
-#EXTINF:-1,Mickey Mouse Cartoon
-http://canais.servidor.tv:8080/joel/joel123/32598
-#EXTINF:-1,Mickey Mouse Clássico
-http://canais.servidor.tv:8080/joel/joel123/32597
-#EXTINF:-1,MTV HD
-http://canais.servidor.tv:8080/joel/joel123/1453
-#EXTINF:-1,MTV HD+
-http://canais.servidor.tv:8080/joel/joel123/202
-#EXTINF:-1,Multishow HD
-http://canais.servidor.tv:8080/joel/joel123/1452
-#EXTINF:-1,Multishow HD+
-http://canais.servidor.tv:8080/joel/joel123/199
-#EXTINF:-1,Mundo Bita
-http://canais.servidor.tv:8080/joel/joel123/32607
-#EXTINF:-1,Nat Geo Kids HD
-http://canais.servidor.tv:8080/joel/joel123/1451
-#EXTINF:-1,Nat Geo Kids HD+
-http://canais.servidor.tv:8080/joel/joel123/195
-#EXTINF:-1,Nat Geo Wild HD
-http://canais.servidor.tv:8080/joel/joel123/1450
-#EXTINF:-1,Nat Geo Wild HD+
-http://canais.servidor.tv:8080/joel/joel123/193
-#EXTINF:-1,National Geographic HD+
-http://canais.servidor.tv:8080/joel/joel123/196
-#EXTINF:-1,Nick JR HD
-http://canais.servidor.tv:8080/joel/joel123/1503
-#EXTINF:-1,Nick JR HD+
-http://canais.servidor.tv:8080/joel/joel123/187
-#EXTINF:-1,Nickelodeon HD
-http://canais.servidor.tv:8080/joel/joel123/1449
-#EXTINF:-1,Nickelodeon HD+
-http://canais.servidor.tv:8080/joel/joel123/188
-#EXTINF:-1,Novo Tempo HD
-http://canais.servidor.tv:8080/joel/joel123/22507
-#EXTINF:-1,O Pequeno Urso
-http://canais.servidor.tv:8080/joel/joel123/32630
-#EXTINF:-1,O Show da Luna
-http://canais.servidor.tv:8080/joel/joel123/32606
-#EXTINF:-1,OFF HD
-http://canais.servidor.tv:8080/joel/joel123/183
-#EXTINF:-1,Operação Fronteira América do Sul
-http://canais.servidor.tv:8080/joel/joel123/32681
-#EXTINF:-1,Os Simpsons
-http://canais.servidor.tv:8080/joel/joel123/32591
-#EXTINF:-1,Pai Eterno HD
-http://canais.servidor.tv:8080/joel/joel123/22509
-#EXTINF:-1,Papaléguas e o Coiote
-http://canais.servidor.tv:8080/joel/joel123/32605
-#EXTINF:-1,Paramount Channel HD
-http://canais.servidor.tv:8080/joel/joel123/1448
-#EXTINF:-1,Paramount Channel HD+
-http://canais.servidor.tv:8080/joel/joel123/181
-#EXTINF:-1,Patrulha Canina
-http://canais.servidor.tv:8080/joel/joel123/32604
-#EXTINF:-1,Peppa Pig
-http://canais.servidor.tv:8080/joel/joel123/32631
-#EXTINF:-1,Pica-Pau
-http://canais.servidor.tv:8080/joel/joel123/32588
-#EXTINF:-1,Play TV SD
-http://canais.servidor.tv:8080/joel/joel123/179
-#EXTINF:-1,Polícia 24 Horas
-http://canais.servidor.tv:8080/joel/joel123/32596
-#EXTINF:-1,Premiere 2 HD
-http://canais.servidor.tv:8080/joel/joel123/1511
-#EXTINF:-1,Premiere 2 HD+
-http://canais.servidor.tv:8080/joel/joel123/172
-#EXTINF:-1,Premiere 3 HD
-http://canais.servidor.tv:8080/joel/joel123/1510
-#EXTINF:-1,Premiere 3 HD+
-http://canais.servidor.tv:8080/joel/joel123/170
-#EXTINF:-1,Premiere 4 HD
-http://canais.servidor.tv:8080/joel/joel123/1509
-#EXTINF:-1,Premiere 4 HD+
-http://canais.servidor.tv:8080/joel/joel123/168
-#EXTINF:-1,Premiere 5 HD
-http://canais.servidor.tv:8080/joel/joel123/1508
-#EXTINF:-1,Premiere 5 HD+
-http://canais.servidor.tv:8080/joel/joel123/166
-#EXTINF:-1,Premiere 6 HD
-http://canais.servidor.tv:8080/joel/joel123/1507
-#EXTINF:-1,Premiere 6 HD+
-http://canais.servidor.tv:8080/joel/joel123/164
-#EXTINF:-1,Premiere 7 HD
-http://canais.servidor.tv:8080/joel/joel123/1506
-#EXTINF:-1,Premiere 7 HD+
-http://canais.servidor.tv:8080/joel/joel123/162
-#EXTINF:-1,Premiere Clubes HD
-http://canais.servidor.tv:8080/joel/joel123/1447
-#EXTINF:-1,Premiere Clubes HD+
-http://canais.servidor.tv:8080/joel/joel123/159
-#EXTINF:-1,Prime Box Brasil HD
-http://canais.servidor.tv:8080/joel/joel123/4456
-#EXTINF:-1,Prime Box Brasil HD+
-http://canais.servidor.tv:8080/joel/joel123/157
-#EXTINF:-1,Record BA HD
-http://canais.servidor.tv:8080/joel/joel123/29777
-#EXTINF:-1,Record Belem HD
-http://canais.servidor.tv:8080/joel/joel123/29775
-#EXTINF:-1,Record DF HD
-http://canais.servidor.tv:8080/joel/joel123/29776
-#EXTINF:-1,Record GO HD
-http://canais.servidor.tv:8080/joel/joel123/29779
-#EXTINF:-1,Record MG HD
-http://canais.servidor.tv:8080/joel/joel123/29778
-#EXTINF:-1,Record News HD
-http://canais.servidor.tv:8080/joel/joel123/1513
-#EXTINF:-1,Record News HD+
-http://canais.servidor.tv:8080/joel/joel123/405
-#EXTINF:-1,Record PA HD
-http://canais.servidor.tv:8080/joel/joel123/29782
-#EXTINF:-1,Record RJ HD
-http://canais.servidor.tv:8080/joel/joel123/29780
-#EXTINF:-1,Record RS HD
-http://canais.servidor.tv:8080/joel/joel123/29781
-#EXTINF:-1,Record SP HD
-http://canais.servidor.tv:8080/joel/joel123/403
-#EXTINF:-1,Record SP HD+
-http://canais.servidor.tv:8080/joel/joel123/148
-#EXTINF:-1,Rede TV HD
-http://canais.servidor.tv:8080/joel/joel123/136
-#EXTINF:-1,Rede Vida HD
-http://canais.servidor.tv:8080/joel/joel123/22506
-#EXTINF:-1,RIT TV SD
-http://canais.servidor.tv:8080/joel/joel123/22510
-#EXTINF:-1,Rá Tim Bum HD
-http://canais.servidor.tv:8080/joel/joel123/72
-#EXTINF:-1,SBT HD
-http://canais.servidor.tv:8080/joel/joel123/1512
-#EXTINF:-1,SBT HD+
-http://canais.servidor.tv:8080/joel/joel123/402
-#EXTINF:-1,Scooby-Doo
-http://canais.servidor.tv:8080/joel/joel123/32603
-#EXTINF:-1,Shoptime SD
-http://canais.servidor.tv:8080/joel/joel123/29773
-#EXTINF:-1,Sony HD
-http://canais.servidor.tv:8080/joel/joel123/1446
-#EXTINF:-1,Sony HD+
-http://canais.servidor.tv:8080/joel/joel123/127
-#EXTINF:-1,South Park
-http://canais.servidor.tv:8080/joel/joel123/32602
-#EXTINF:-1,Space HD
-http://canais.servidor.tv:8080/joel/joel123/1445
-#EXTINF:-1,Space HD+
-http://canais.servidor.tv:8080/joel/joel123/125
-#EXTINF:-1,SporTV 2 HD
-http://canais.servidor.tv:8080/joel/joel123/1443
-#EXTINF:-1,SporTV 2 HD+
-http://canais.servidor.tv:8080/joel/joel123/123
-#EXTINF:-1,SporTV 3 HD
-http://canais.servidor.tv:8080/joel/joel123/1442
-#EXTINF:-1,SporTV 3 HD+
-http://canais.servidor.tv:8080/joel/joel123/121
-#EXTINF:-1,SporTV HD
-http://canais.servidor.tv:8080/joel/joel123/1444
-#EXTINF:-1,SporTV HD+
-http://canais.servidor.tv:8080/joel/joel123/119
-#EXTINF:-1,Studio Universal HD
-http://canais.servidor.tv:8080/joel/joel123/1441
-#EXTINF:-1,Studio Universal HD+
-http://canais.servidor.tv:8080/joel/joel123/117
-#EXTINF:-1,Super Choque
-http://canais.servidor.tv:8080/joel/joel123/32627
-#EXTINF:-1,Syfy HD
-http://canais.servidor.tv:8080/joel/joel123/1440
-#EXTINF:-1,Syfy HD+
-http://canais.servidor.tv:8080/joel/joel123/115
-#EXTINF:-1,TBS HD
-http://canais.servidor.tv:8080/joel/joel123/113
-#EXTINF:-1,TCM HD
-http://canais.servidor.tv:8080/joel/joel123/99
-#EXTINF:-1,Telecine Action HD
-http://canais.servidor.tv:8080/joel/joel123/1438
-#EXTINF:-1,Telecine Action HD+
-http://canais.servidor.tv:8080/joel/joel123/111
-#EXTINF:-1,Telecine Cult HD
-http://canais.servidor.tv:8080/joel/joel123/1437
-#EXTINF:-1,Telecine Cult HD+
-http://canais.servidor.tv:8080/joel/joel123/109
-#EXTINF:-1,Telecine Fun HD
-http://canais.servidor.tv:8080/joel/joel123/1436
-#EXTINF:-1,Telecine Fun HD+
-http://canais.servidor.tv:8080/joel/joel123/107
-#EXTINF:-1,Telecine Pipoca HD
-http://canais.servidor.tv:8080/joel/joel123/1435
-#EXTINF:-1,Telecine Pipoca HD+
-http://canais.servidor.tv:8080/joel/joel123/105
-#EXTINF:-1,Telecine Premium HD
-http://canais.servidor.tv:8080/joel/joel123/1434
-#EXTINF:-1,Telecine Premium HD+
-http://canais.servidor.tv:8080/joel/joel123/103
-#EXTINF:-1,Telecine Touch HD
-http://canais.servidor.tv:8080/joel/joel123/1439
-#EXTINF:-1,Telecine Touch HD+
-http://canais.servidor.tv:8080/joel/joel123/101
-#EXTINF:-1,TLC HD
-http://canais.servidor.tv:8080/joel/joel123/94
-#EXTINF:-1,TNT HD
-http://canais.servidor.tv:8080/joel/joel123/1433
-#EXTINF:-1,TNT HD+
-http://canais.servidor.tv:8080/joel/joel123/92
-#EXTINF:-1,TNT Series HD
-http://canais.servidor.tv:8080/joel/joel123/1432
-#EXTINF:-1,TNT Séries HD+
-http://canais.servidor.tv:8080/joel/joel123/90
-#EXTINF:-1,Todo Mundo Odeia o Chris
-http://canais.servidor.tv:8080/joel/joel123/32625
-#EXTINF:-1,Tom e Jerry
-http://canais.servidor.tv:8080/joel/joel123/32600
-#EXTINF:-1,TV Brasil HD
-http://canais.servidor.tv:8080/joel/joel123/22513
-#EXTINF:-1,TV Camara HD
-http://canais.servidor.tv:8080/joel/joel123/22511
-#EXTINF:-1,TV Diario HD
-http://canais.servidor.tv:8080/joel/joel123/4473
-#EXTINF:-1,TV Diario HD+
-http://canais.servidor.tv:8080/joel/joel123/4472
-#EXTINF:-1,TV Escola HD
-http://canais.servidor.tv:8080/joel/joel123/22514
-#EXTINF:-1,TV Justiça HD
-http://canais.servidor.tv:8080/joel/joel123/22512
-#EXTINF:-1,TV Senado HD
-http://canais.servidor.tv:8080/joel/joel123/22515
-#EXTINF:-1,TV5 SD
-http://canais.servidor.tv:8080/joel/joel123/69
-#EXTINF:-1,Um Maluco no Pedaço
-http://canais.servidor.tv:8080/joel/joel123/32592
-#EXTINF:-1,Universal Channel HD
-http://canais.servidor.tv:8080/joel/joel123/1431
-#EXTINF:-1,Universal Channel HD+
-http://canais.servidor.tv:8080/joel/joel123/67
-#EXTINF:-1,VH1 HD
-http://canais.servidor.tv:8080/joel/joel123/65
-#EXTINF:-1,VH1 Mega Hits SD
-http://canais.servidor.tv:8080/joel/joel123/64
-#EXTINF:-1,Viva HD
-http://canais.servidor.tv:8080/joel/joel123/2680
-#EXTINF:-1,Viva HD+
-http://canais.servidor.tv:8080/joel/joel123/10
-#EXTINF:-1,Warner Channel HD
-http://canais.servidor.tv:8080/joel/joel123/1430
-#EXTINF:-1,Warner Channel HD+
-http://canais.servidor.tv:8080/joel/joel123/61
-#EXTINF:-1,WooHoo HD+
-http://canais.servidor.tv:8080/joel/joel123/59
-#EXTINF:-1,X-Men Evolution
-http://canais.servidor.tv:8080/joel/joel123/32628
-#EXTINF:-1,Yu-Gi-Oh
-http://canais.servidor.tv:8080/joel/joel123/32601
-#EXTINF:-1,ZooMoo HD+
-http://canais.servidor.tv:8080/joel/joel123/377
-MarkupCopy
- 
-Para compartilhar esta pasta, copie este URL e envie para seus amigos
-http://www.pastebr.xyz/zVJgqLqX3R
-RAW Paste Dados
-#EXTM3U
-#EXTINF:-1,A&E HD
-http://canais.servidor.tv:8080/joel/joel123/1521
-#EXTINF:-1,A&E HD+
-http://canais.servidor.tv:8080/joel/joel123/375
-#EXTINF:-1,Aeroporto Área Restrita
-http://canais.servidor.tv:8080/joel/joel123/32595
-#EXTINF:-1,AMC HD
-http://canais.servidor.tv:8080/joel/joel123/1498
-#EXTINF:-1,AMC HD+
-http://canais.servidor.tv:8080/joel/joel123/373
-#EXTINF:-1,Animal Planet HD
-http://canais.servidor.tv:8080/joel/joel123/1497
-#EXTINF:-1,Animal Planet HD+
-http://canais.servidor.tv:8080/joel/joel123/371
-#EXTINF:-1,Arte 1 HD+
-http://canais.servidor.tv:8080/joel/joel123/15
-#EXTINF:-1,As Aventuras de Jackie Chan
-http://canais.servidor.tv:8080/joel/joel123/32589
-#EXTINF:-1,AXN HD
-http://canais.servidor.tv:8080/joel/joel123/1496
-#EXTINF:-1,AXN HD+
-http://canais.servidor.tv:8080/joel/joel123/369
-#EXTINF:-1,Baby TV SD
-http://canais.servidor.tv:8080/joel/joel123/367
-#EXTINF:-1,Band HD
-http://canais.servidor.tv:8080/joel/joel123/489
-#EXTINF:-1,Band HD+
-http://canais.servidor.tv:8080/joel/joel123/484
-#EXTINF:-1,Band News HD
-http://canais.servidor.tv:8080/joel/joel123/1494
-#EXTINF:-1,Band News HD+
-http://canais.servidor.tv:8080/joel/joel123/363
+http://pfsv.io:80/regina/123456/256
 #EXTINF:-1,Band Sports HD
-http://canais.servidor.tv:8080/joel/joel123/1495
-#EXTINF:-1,Band Sports HD+
-http://canais.servidor.tv:8080/joel/joel123/360
+http://pfsv.io:80/regina/123456/265
+#EXTINF:-1,BIS  FHD[H265]
+http://pfsv.io:80/regina/123456/30177
+#EXTINF:-1,BIS FHD
+http://pfsv.io:80/regina/123456/5
 #EXTINF:-1,BIS HD
-http://canais.servidor.tv:8080/joel/joel123/1493
-#EXTINF:-1,BIS HD+
-http://canais.servidor.tv:8080/joel/joel123/358
-#EXTINF:-1,Boa Vontade SD
-http://canais.servidor.tv:8080/joel/joel123/22508
-#EXTINF:-1,Bob Esponja
-http://canais.servidor.tv:8080/joel/joel123/32590
+http://pfsv.io:80/regina/123456/18
+#EXTINF:-1,BIS SD
+http://pfsv.io:80/regina/123456/12
+#EXTINF:-1,Boa Vontade FHD
+http://pfsv.io:80/regina/123456/546
+#EXTINF:-1,Boa Vontade FHD [H265]
+http://pfsv.io:80/regina/123456/30295
+#EXTINF:-1,Boa Vontade HD
+http://pfsv.io:80/regina/123456/50790
+#EXTINF:-1,BooMerang FHD
+http://pfsv.io:80/regina/123456/125
+#EXTINF:-1,Boomerang FHD [H265]
+http://pfsv.io:80/regina/123456/30267
 #EXTINF:-1,Boomerang HD
-http://canais.servidor.tv:8080/joel/joel123/1492
-#EXTINF:-1,Boomerang HD+
-http://canais.servidor.tv:8080/joel/joel123/355
+http://pfsv.io:80/regina/123456/138
+#EXTINF:-1,Boomerang SD
+http://pfsv.io:80/regina/123456/150
+#EXTINF:-1,CAMPEONATO CATARINENSE 02
+http://pfsv.io:80/regina/123456/35086
+#EXTINF:-1,CAMPEONATO CATARINENSE 02
+http://pfsv.io:80/regina/123456/35087
+#EXTINF:-1,CAMPEONATO CATARINENSE 03
+http://pfsv.io:80/regina/123456/35088
+#EXTINF:-1,CAMPEONATO CATARINENSE 04
+http://pfsv.io:80/regina/123456/35089
+#EXTINF:-1,Canal Brasil FHD
+http://pfsv.io:80/regina/123456/298
+#EXTINF:-1,Canal Brasil FHD[H265]
+http://pfsv.io:80/regina/123456/30233
 #EXTINF:-1,Canal Brasil HD
-http://canais.servidor.tv:8080/joel/joel123/353
-#EXTINF:-1,Canal do Boi HD
-http://canais.servidor.tv:8080/joel/joel123/29771
-#EXTINF:-1,Canal Rural HD
-http://canais.servidor.tv:8080/joel/joel123/29770
+http://pfsv.io:80/regina/123456/322
+#EXTINF:-1,Canal Brasil SD
+http://pfsv.io:80/regina/123456/349
+#EXTINF:-1,Cartoon Network FHD
+http://pfsv.io:80/regina/123456/126
+#EXTINF:-1,Cartoon Network FHD [H265]
+http://pfsv.io:80/regina/123456/30268
 #EXTINF:-1,Cartoon Network HD
-http://canais.servidor.tv:8080/joel/joel123/1491
-#EXTINF:-1,Cartoon Network HD+
-http://canais.servidor.tv:8080/joel/joel123/349
-#EXTINF:-1,Chaves
-http://canais.servidor.tv:8080/joel/joel123/32626
-#EXTINF:-1,Cinemax HD
-http://canais.servidor.tv:8080/joel/joel123/1490
-#EXTINF:-1,Cinemax HD+
-http://canais.servidor.tv:8080/joel/joel123/347
-#EXTINF:-1,Clássicos Walt Disney
-http://canais.servidor.tv:8080/joel/joel123/32624
+http://pfsv.io:80/regina/123456/139
+#EXTINF:-1,Cartoon Network SD
+http://pfsv.io:80/regina/123456/151
+#EXTINF:-1,Cartoon Network [4K]
+http://pfsv.io:80/regina/123456/591
+#EXTINF:-1,Catarinense 01
+http://pfsv.io:80/regina/123456/502
+#EXTINF:-1,Catarinense 02
+http://pfsv.io:80/regina/123456/503
+#EXTINF:-1,Chef TV HD
+http://pfsv.io:80/regina/123456/32543
+#EXTINF:-1,Cine Action HD
+http://pfsv.io:80/regina/123456/43802
+#EXTINF:-1,Cine Edition HD
+http://pfsv.io:80/regina/123456/43800
+#EXTINF:-1,Cine Emotion HD
+http://pfsv.io:80/regina/123456/43801
+#EXTINF:-1,Cine Pipoca 1 HD
+http://pfsv.io:80/regina/123456/43803
+#EXTINF:-1,Cine Pipoca 10 HD
+http://pfsv.io:80/regina/123456/43812
+#EXTINF:-1,Cine Pipoca 11 HD
+http://pfsv.io:80/regina/123456/43813
+#EXTINF:-1,Cine Pipoca 12 HD
+http://pfsv.io:80/regina/123456/43814
+#EXTINF:-1,Cine Pipoca 13 HD
+http://pfsv.io:80/regina/123456/43815
+#EXTINF:-1,Cine Pipoca 14 HD
+http://pfsv.io:80/regina/123456/43816
+#EXTINF:-1,Cine Pipoca 2 HD
+http://pfsv.io:80/regina/123456/43804
+#EXTINF:-1,Cine Pipoca 3 HD
+http://pfsv.io:80/regina/123456/43805
+#EXTINF:-1,Cine Pipoca 4 HD
+http://pfsv.io:80/regina/123456/43806
+#EXTINF:-1,Cine Pipoca 5 HD
+http://pfsv.io:80/regina/123456/43807
+#EXTINF:-1,Cine Pipoca 6 HD
+http://pfsv.io:80/regina/123456/43808
+#EXTINF:-1,Cine Pipoca 7 HD
+http://pfsv.io:80/regina/123456/43809
+#EXTINF:-1,Cine Pipoca 8 HD
+http://pfsv.io:80/regina/123456/43810
+#EXTINF:-1,Cine Pipoca 9 HD
+http://pfsv.io:80/regina/123456/43811
+#EXTINF:-1,CINE SKY 01 FHD
+http://pfsv.io:80/regina/123456/50858
+#EXTINF:-1,Cine Sky 01 HD
+http://pfsv.io:80/regina/123456/50838
+#EXTINF:-1,Cine Sky 02 HD
+http://pfsv.io:80/regina/123456/50839
+#EXTINF:-1,Cine Sky 03 HD
+http://pfsv.io:80/regina/123456/50840
+#EXTINF:-1,Cine Sky 04 HD
+http://pfsv.io:80/regina/123456/50841
+#EXTINF:-1,Cine Sky 05 HD
+http://pfsv.io:80/regina/123456/50842
+#EXTINF:-1,CINE SKY 06 FHD
+http://pfsv.io:80/regina/123456/50862
+#EXTINF:-1,Cine Sky 06 HD
+http://pfsv.io:80/regina/123456/50843
+#EXTINF:-1,Cine Sky 07 HD
+http://pfsv.io:80/regina/123456/50844
+#EXTINF:-1,Cine Sky 08 HD
+http://pfsv.io:80/regina/123456/50845
+#EXTINF:-1,Cine Sky 09 HD
+http://pfsv.io:80/regina/123456/50846
+#EXTINF:-1,Cine Sky 10 HD
+http://pfsv.io:80/regina/123456/50847
+#EXTINF:-1,Cine Sky 11 HD
+http://pfsv.io:80/regina/123456/50848
+#EXTINF:-1,Cine Sky 12 HD
+http://pfsv.io:80/regina/123456/50849
+#EXTINF:-1,Cine Sky 13 HD
+http://pfsv.io:80/regina/123456/50850
+#EXTINF:-1,Cine Sky 14 HD
+http://pfsv.io:80/regina/123456/50851
+#EXTINF:-1,Cine Sky 15 HD
+http://pfsv.io:80/regina/123456/50852
+#EXTINF:-1,Cine Sky 16 HD
+http://pfsv.io:80/regina/123456/50853
+#EXTINF:-1,Cine Sky 17 HD
+http://pfsv.io:80/regina/123456/50854
+#EXTINF:-1,Cine Sky 18 HD
+http://pfsv.io:80/regina/123456/50855
+#EXTINF:-1,Cine Sky 19 HD
+http://pfsv.io:80/regina/123456/50856
+#EXTINF:-1,CINE SKY 20 FHD
+http://pfsv.io:80/regina/123456/50859
+#EXTINF:-1,Cine Sky 20 HD
+http://pfsv.io:80/regina/123456/50857
+#EXTINF:-1,CINE SKY 21 FHD
+http://pfsv.io:80/regina/123456/50860
+#EXTINF:-1,Cine Top HD
+http://pfsv.io:80/regina/123456/43799
+#EXTINF:-1,CineMax FHD
+http://pfsv.io:80/regina/123456/275
+#EXTINF:-1,CineMax FHD[H265]
+http://pfsv.io:80/regina/123456/30215
+#EXTINF:-1,CineMax HD
+http://pfsv.io:80/regina/123456/303
+#EXTINF:-1,CineMax SD
+http://pfsv.io:80/regina/123456/328
+#EXTINF:-1,CNN Brasil FHD
+http://pfsv.io:80/regina/123456/513
+#EXTINF:-1,CNN Brasil FHD[H265]
+http://pfsv.io:80/regina/123456/30198
 #EXTINF:-1,CNN Brasil HD
-http://canais.servidor.tv:8080/joel/joel123/21417
-#EXTINF:-1,CNN Brasil HD+
-http://canais.servidor.tv:8080/joel/joel123/21418
-#EXTINF:-1,CNN Espanhol SD
-http://canais.servidor.tv:8080/joel/joel123/345
-#EXTINF:-1,CNN Internacional SD
-http://canais.servidor.tv:8080/joel/joel123/344
+http://pfsv.io:80/regina/123456/517
+#EXTINF:-1,CNN Brasil SD
+http://pfsv.io:80/regina/123456/523
+#EXTINF:-1,CNN Brasil [4K]
+http://pfsv.io:80/regina/123456/50865
+#EXTINF:-1,CNN INTERNACIONAL SD
+http://pfsv.io:80/regina/123456/33405
+#EXTINF:-1,Combate FHD
+http://pfsv.io:80/regina/123456/249
+#EXTINF:-1,Combate FHD[H265]
+http://pfsv.io:80/regina/123456/30276
 #EXTINF:-1,Combate HD
-http://canais.servidor.tv:8080/joel/joel123/1489
-#EXTINF:-1,Combate HD+
-http://canais.servidor.tv:8080/joel/joel123/342
+http://pfsv.io:80/regina/123456/257
+#EXTINF:-1,Combate SD
+http://pfsv.io:80/regina/123456/266
+#EXTINF:-1,Combate [4K]
+http://pfsv.io:80/regina/123456/581
+#EXTINF:-1,Comedy Central FHD
+http://pfsv.io:80/regina/123456/97
+#EXTINF:-1,Comedy Central FHD [H265]
+http://pfsv.io:80/regina/123456/30191
 #EXTINF:-1,Comedy Central HD
-http://canais.servidor.tv:8080/joel/joel123/1488
-#EXTINF:-1,Comedy Central HD+
-http://canais.servidor.tv:8080/joel/joel123/340
-#EXTINF:-1,Cultura HD
-http://canais.servidor.tv:8080/joel/joel123/29772
+http://pfsv.io:80/regina/123456/106
+#EXTINF:-1,Comedy Central SD
+http://pfsv.io:80/regina/123456/115
+#EXTINF:-1,Comedy Central [4K]
+http://pfsv.io:80/regina/123456/50868
+#EXTINF:-1,Conmebol 01 FHD 
+http://pfsv.io:80/regina/123456/49102
+#EXTINF:-1,Conmebol 01
+http://pfsv.io:80/regina/123456/49106
+#EXTINF:-1,Conmebol 02 FHD 
+http://pfsv.io:80/regina/123456/49103
+#EXTINF:-1,Conmebol 02 [ALTER]
+http://pfsv.io:80/regina/123456/49107
+#EXTINF:-1,Conmebol 03 FHD
+http://pfsv.io:80/regina/123456/49104
+#EXTINF:-1,Conmebol 04 FHD
+http://pfsv.io:80/regina/123456/49105
+#EXTINF:-1,Conmebol [4K]
+http://pfsv.io:80/regina/123456/49110
+#EXTINF:-1,COPA DO NORDESTE 01
+http://pfsv.io:80/regina/123456/35085
+#EXTINF:-1,Copa do Nordeste 01[ALTER]
+http://pfsv.io:80/regina/123456/35070
+#EXTINF:-1,COPA DO NORDESTE 02 [ALTER2]
+http://pfsv.io:80/regina/123456/35090
+#EXTINF:-1,Copa do Nordeste 02[ALTER]
+http://pfsv.io:80/regina/123456/35071
+#EXTINF:-1,COPA DO NORDESTE 03 [ALTER2]
+http://pfsv.io:80/regina/123456/35091
+#EXTINF:-1,Copa do Nordeste 03[ALTER]
+http://pfsv.io:80/regina/123456/35072
+#EXTINF:-1,COPA DO NORDESTE 04 [ALTER2]
+http://pfsv.io:80/regina/123456/35092
+#EXTINF:-1,Copa do Nordeste 04[ALTER]
+http://pfsv.io:80/regina/123456/35073
+#EXTINF:-1,Copa Libertadores HD
+http://pfsv.io:80/regina/123456/490
+#EXTINF:-1,Copa Nordeste 1
+http://pfsv.io:80/regina/123456/492
+#EXTINF:-1,Copa Nordeste 2
+http://pfsv.io:80/regina/123456/493
+#EXTINF:-1,Copa Nordeste 3
+http://pfsv.io:80/regina/123456/494
+#EXTINF:-1,Curta! FHD
+http://pfsv.io:80/regina/123456/98
+#EXTINF:-1,Curta! FHD [H265]
+http://pfsv.io:80/regina/123456/30192
+#EXTINF:-1,Curta! HD
+http://pfsv.io:80/regina/123456/107
 #EXTINF:-1,Curta! SD
-http://canais.servidor.tv:8080/joel/joel123/338
-#EXTINF:-1,DAZN HD
-http://canais.servidor.tv:8080/joel/joel123/2716
+http://pfsv.io:80/regina/123456/116
+#EXTINF:-1,DAZN 01
+http://pfsv.io:80/regina/123456/35076
+#EXTINF:-1,DAZN 01[ALTER]
+http://pfsv.io:80/regina/123456/35074
+#EXTINF:-1,DAZN 02
+http://pfsv.io:80/regina/123456/35077
+#EXTINF:-1,DAZN 02[ALTER]
+http://pfsv.io:80/regina/123456/35075
+#EXTINF:-1,DAZN 03
+http://pfsv.io:80/regina/123456/35078
+#EXTINF:-1,DAZN 04
+http://pfsv.io:80/regina/123456/35079
+#EXTINF:-1,DAZN 05
+http://pfsv.io:80/regina/123456/35080
+#EXTINF:-1,DAZN 1
+http://pfsv.io:80/regina/123456/504
+#EXTINF:-1,DAZN 2
+http://pfsv.io:80/regina/123456/505
+#EXTINF:-1,DAZN 3
+http://pfsv.io:80/regina/123456/506
+#EXTINF:-1,DAZN 4
+http://pfsv.io:80/regina/123456/507
+#EXTINF:-1,DAZN 5
+http://pfsv.io:80/regina/123456/508
+#EXTINF:-1,DAZN 6
+http://pfsv.io:80/regina/123456/509
+#EXTINF:-1,Discovery Channel FHD
+http://pfsv.io:80/regina/123456/166
+#EXTINF:-1,Discovery Channel FHD [H265]
+http://pfsv.io:80/regina/123456/30260
 #EXTINF:-1,Discovery Channel HD
-http://canais.servidor.tv:8080/joel/joel123/1487
-#EXTINF:-1,Discovery Channel HD+
-http://canais.servidor.tv:8080/joel/joel123/337
+http://pfsv.io:80/regina/123456/181
+#EXTINF:-1,Discovery Science FHD [H265]
+http://pfsv.io:80/regina/123456/30255
+#EXTINF:-1,Discovery Channel SD
+http://pfsv.io:80/regina/123456/196
+#EXTINF:-1,Discovery Theater FHD [H265]
+http://pfsv.io:80/regina/123456/30256
+#EXTINF:-1,Discovery Turbo FHD [H265]
+http://pfsv.io:80/regina/123456/30257
+#EXTINF:-1,Discovery Turbo [4K]
+http://pfsv.io:80/regina/123456/50869
+#EXTINF:-1,Discovery World FHD [H265]
+http://pfsv.io:80/regina/123456/30258
+#EXTINF:-1,Discovery Channel [4K]
+http://pfsv.io:80/regina/123456/585
+#EXTINF:-1,Discovery Home & Health FHD
+http://pfsv.io:80/regina/123456/168
 #EXTINF:-1,Discovery Home & Health HD
-http://canais.servidor.tv:8080/joel/joel123/1518
-#EXTINF:-1,Discovery Home & Health HD+
-http://canais.servidor.tv:8080/joel/joel123/334
+http://pfsv.io:80/regina/123456/183
+#EXTINF:-1,Discovery Home & Health SD
+http://pfsv.io:80/regina/123456/198
+#EXTINF:-1,Discovery Home&Health FHD[H265]
+http://pfsv.io:80/regina/123456/30254
+#EXTINF:-1,Discovery Home&Health [4K]
+http://pfsv.io:80/regina/123456/50866
+#EXTINF:-1,Discovery Kids FHD
+http://pfsv.io:80/regina/123456/127
 #EXTINF:-1,Discovery Kids HD
-http://canais.servidor.tv:8080/joel/joel123/1483
-#EXTINF:-1,Discovery Kids HD+
-http://canais.servidor.tv:8080/joel/joel123/332
+http://pfsv.io:80/regina/123456/140
+#EXTINF:-1,Discovery Kids SD
+http://pfsv.io:80/regina/123456/152
+#EXTINF:-1,Discovery Kids[H265]
+http://pfsv.io:80/regina/123456/30269
+#EXTINF:-1,Discovery Science FHD
+http://pfsv.io:80/regina/123456/169
 #EXTINF:-1,Discovery Science HD
-http://canais.servidor.tv:8080/joel/joel123/1482
-#EXTINF:-1,Discovery Science HD+
-http://canais.servidor.tv:8080/joel/joel123/330
+http://pfsv.io:80/regina/123456/184
+#EXTINF:-1,Discovery Science SD
+http://pfsv.io:80/regina/123456/199
+#EXTINF:-1,Discovery Theater FHD
+http://pfsv.io:80/regina/123456/170
 #EXTINF:-1,Discovery Theater HD
-http://canais.servidor.tv:8080/joel/joel123/1486
-#EXTINF:-1,Discovery Theater HD+
-http://canais.servidor.tv:8080/joel/joel123/329
+http://pfsv.io:80/regina/123456/185
+#EXTINF:-1,Discovery Theater SD
+http://pfsv.io:80/regina/123456/200
+#EXTINF:-1,Discovery Turbo FHD
+http://pfsv.io:80/regina/123456/171
 #EXTINF:-1,Discovery Turbo HD
-http://canais.servidor.tv:8080/joel/joel123/1481
-#EXTINF:-1,Discovery Turbo HD+
-http://canais.servidor.tv:8080/joel/joel123/328
+http://pfsv.io:80/regina/123456/186
+#EXTINF:-1,Discovery Turbo SD
+http://pfsv.io:80/regina/123456/201
+#EXTINF:-1,Discovery World FHD
+http://pfsv.io:80/regina/123456/172
 #EXTINF:-1,Discovery World HD
-http://canais.servidor.tv:8080/joel/joel123/1485
-#EXTINF:-1,Discovery World HD+
-http://canais.servidor.tv:8080/joel/joel123/326
+http://pfsv.io:80/regina/123456/187
+#EXTINF:-1,Discovery World SD
+http://pfsv.io:80/regina/123456/202
+#EXTINF:-1,Disney Channel FHD
+http://pfsv.io:80/regina/123456/135
 #EXTINF:-1,Disney Channel HD
-http://canais.servidor.tv:8080/joel/joel123/1480
-#EXTINF:-1,Disney Channel HD+
-http://canais.servidor.tv:8080/joel/joel123/325
-#EXTINF:-1,Disney Júnior HD
-http://canais.servidor.tv:8080/joel/joel123/1478
-#EXTINF:-1,Disney Júnior HD+
-http://canais.servidor.tv:8080/joel/joel123/323
+http://pfsv.io:80/regina/123456/141
+#EXTINF:-1,Disney Channel SD
+http://pfsv.io:80/regina/123456/153
+#EXTINF:-1,Disney Channel FHD [H265]
+http://pfsv.io:80/regina/123456/30270
+#EXTINF:-1,Disney Jr FHD
+http://pfsv.io:80/regina/123456/134
+#EXTINF:-1,Disney Jr FHD [H265]
+http://pfsv.io:80/regina/123456/30271
+#EXTINF:-1,Disney Jr HD
+http://pfsv.io:80/regina/123456/146
+#EXTINF:-1,Disney Jr SD
+http://pfsv.io:80/regina/123456/154
+#EXTINF:-1,Disney XD FHD
+http://pfsv.io:80/regina/123456/49126
+#EXTINF:-1,Disney XD FHD[H265]
+http://pfsv.io:80/regina/123456/30273
 #EXTINF:-1,Disney XD HD
-http://canais.servidor.tv:8080/joel/joel123/1517
-#EXTINF:-1,Disney XD HD+
-http://canais.servidor.tv:8080/joel/joel123/683
-#EXTINF:-1,Dragon Ball Heroes
-http://canais.servidor.tv:8080/joel/joel123/32594
-#EXTINF:-1,Dragon Ball Super
-http://canais.servidor.tv:8080/joel/joel123/32623
-#EXTINF:-1,Dragon Ball Z
-http://canais.servidor.tv:8080/joel/joel123/32622
+http://pfsv.io:80/regina/123456/49125
+#EXTINF:-1,Disney XD SD
+http://pfsv.io:80/regina/123456/155
+#EXTINF:-1,Dog TV FHD
+http://pfsv.io:80/regina/123456/32426
+#EXTINF:-1,Dog TV HD
+http://pfsv.io:80/regina/123456/32425
+#EXTINF:-1,E! FHD
+http://pfsv.io:80/regina/123456/99
+#EXTINF:-1,E! FHD [H265]
+http://pfsv.io:80/regina/123456/30186
 #EXTINF:-1,E! HD
-http://canais.servidor.tv:8080/joel/joel123/318
+http://pfsv.io:80/regina/123456/108
+#EXTINF:-1,E! SD
+http://pfsv.io:80/regina/123456/117
+#EXTINF:-1,Ei Plus 01
+http://pfsv.io:80/regina/123456/495
+#EXTINF:-1,Ei Plus 02
+http://pfsv.io:80/regina/123456/496
+#EXTINF:-1,Ei Plus 03
+http://pfsv.io:80/regina/123456/497
+#EXTINF:-1,Ei Plus 04
+http://pfsv.io:80/regina/123456/498
+#EXTINF:-1,Ei Plus 05
+http://pfsv.io:80/regina/123456/499
+#EXTINF:-1,Ei Plus 06
+http://pfsv.io:80/regina/123456/500
+#EXTINF:-1,EI Plus HD
+http://pfsv.io:80/regina/123456/488
+#EXTINF:-1,EI Plus SD
+http://pfsv.io:80/regina/123456/489
+#EXTINF:-1,EiMax Jogos01
+http://pfsv.io:80/regina/123456/35081
+#EXTINF:-1,EiMax Jogos02
+http://pfsv.io:80/regina/123456/35082
+#EXTINF:-1,EiMax Jogos03
+http://pfsv.io:80/regina/123456/35083
+#EXTINF:-1,EiMax Jogos04
+http://pfsv.io:80/regina/123456/35084
+#EXTINF:-1,ESPN 2 FHD
+http://pfsv.io:80/regina/123456/254
+#EXTINF:-1,ESPN 2 FHD[H265]
+http://pfsv.io:80/regina/123456/30277
 #EXTINF:-1,ESPN 2 HD
-http://canais.servidor.tv:8080/joel/joel123/1476
-#EXTINF:-1,ESPN 2 HD+
-http://canais.servidor.tv:8080/joel/joel123/314
+http://pfsv.io:80/regina/123456/258
+#EXTINF:-1,ESPN 2 SD
+http://pfsv.io:80/regina/123456/268
+#EXTINF:-1,ESPN Brasil FHD
+http://pfsv.io:80/regina/123456/250
+#EXTINF:-1,ESPN Brasil FHD[H265]
+http://pfsv.io:80/regina/123456/30280
 #EXTINF:-1,ESPN Brasil HD
-http://canais.servidor.tv:8080/joel/joel123/1475
-#EXTINF:-1,ESPN Brasil HD+
-http://canais.servidor.tv:8080/joel/joel123/313
-#EXTINF:-1,ESPN Extra HD+
-http://canais.servidor.tv:8080/joel/joel123/311
+http://pfsv.io:80/regina/123456/259
+#EXTINF:-1,ESPN Brasil SD
+http://pfsv.io:80/regina/123456/269
+#EXTINF:-1,ESPN Brasil [4K]
+http://pfsv.io:80/regina/123456/50872
+#EXTINF:-1,ESPN Extra FHD
+http://pfsv.io:80/regina/123456/248
+#EXTINF:-1,ESPN Extra FHD [H265]
+http://pfsv.io:80/regina/123456/30278
+#EXTINF:-1,ESPN Extra HD
+http://pfsv.io:80/regina/123456/260
+#EXTINF:-1,ESPN Extra SD
+http://pfsv.io:80/regina/123456/270
+#EXTINF:-1,ESPN FHD
+http://pfsv.io:80/regina/123456/251
+#EXTINF:-1,ESPN FHD [H265]
+http://pfsv.io:80/regina/123456/30281
 #EXTINF:-1,ESPN HD
-http://canais.servidor.tv:8080/joel/joel123/1477
-#EXTINF:-1,ESPN HD+
-http://canais.servidor.tv:8080/joel/joel123/309
-#EXTINF:-1,Eu a Patroa e as Crianças
-http://canais.servidor.tv:8080/joel/joel123/32621
-#EXTINF:-1,Fish TV SD
-http://canais.servidor.tv:8080/joel/joel123/307
-#EXTINF:-1,Food Netword HD
-http://canais.servidor.tv:8080/joel/joel123/1474
-#EXTINF:-1,Food Network HD+
-http://canais.servidor.tv:8080/joel/joel123/306
+http://pfsv.io:80/regina/123456/261
+#EXTINF:-1,ESPN SD
+http://pfsv.io:80/regina/123456/267
+#EXTINF:-1,ESPN [4K]
+http://pfsv.io:80/regina/123456/595
+#EXTINF:-1,FashionTV FHD
+http://pfsv.io:80/regina/123456/38526
+#EXTINF:-1,FashionTV FHD [H265] 
+http://pfsv.io:80/regina/123456/30184
+#EXTINF:-1,FashionTV HD
+http://pfsv.io:80/regina/123456/38525
+#EXTINF:-1,Film&Arts SD
+http://pfsv.io:80/regina/123456/348
+#EXTINF:-1,Fish Tv FHD
+http://pfsv.io:80/regina/123456/100
+#EXTINF:-1,Fish Tv FHD [H265]
+http://pfsv.io:80/regina/123456/30185
+#EXTINF:-1,Fish Tv HD
+http://pfsv.io:80/regina/123456/109
+#EXTINF:-1,Fish Tv SD
+http://pfsv.io:80/regina/123456/118
+#EXTINF:-1,FLA TV
+http://pfsv.io:80/regina/123456/33404
+#EXTINF:-1,Food Network FHD
+http://pfsv.io:80/regina/123456/101
+#EXTINF:-1,Food Network FHD [H265]
+http://pfsv.io:80/regina/123456/30193
+#EXTINF:-1,Food Network HD
+http://pfsv.io:80/regina/123456/110
+#EXTINF:-1,Food Network SD
+http://pfsv.io:80/regina/123456/119
+#EXTINF:-1,FOX APP
+http://pfsv.io:80/regina/123456/33375
+#EXTINF:-1,Fox FHD
+http://pfsv.io:80/regina/123456/292
+#EXTINF:-1,Fox FHD[H265]
+http://pfsv.io:80/regina/123456/30207
 #EXTINF:-1,Fox HD
-http://canais.servidor.tv:8080/joel/joel123/1473
-#EXTINF:-1,Fox HD+
-http://canais.servidor.tv:8080/joel/joel123/304
+http://pfsv.io:80/regina/123456/304
+#EXTINF:-1,FOX HD [LEG]
+http://pfsv.io:80/regina/123456/211
+#EXTINF:-1,Fox Life FHD
+http://pfsv.io:80/regina/123456/276
+#EXTINF:-1,Fox Life FHD[H265]
+http://pfsv.io:80/regina/123456/30208
 #EXTINF:-1,Fox Life HD
-http://canais.servidor.tv:8080/joel/joel123/1472
-#EXTINF:-1,Fox Life HD+
-http://canais.servidor.tv:8080/joel/joel123/303
+http://pfsv.io:80/regina/123456/305
+#EXTINF:-1,Fox Life SD
+http://pfsv.io:80/regina/123456/330
+#EXTINF:-1,Fox Premium 1 FHD
+http://pfsv.io:80/regina/123456/277
+#EXTINF:-1,Fox Premium 1 FHD[H265]
+http://pfsv.io:80/regina/123456/30209
 #EXTINF:-1,Fox Premium 1 HD
-http://canais.servidor.tv:8080/joel/joel123/1505
-#EXTINF:-1,Fox Premium 1 HD+
-http://canais.servidor.tv:8080/joel/joel123/29767
+http://pfsv.io:80/regina/123456/306
+#EXTINF:-1,Fox Premium 1 SD
+http://pfsv.io:80/regina/123456/331
+#EXTINF:-1,Fox Premium 2 FHD
+http://pfsv.io:80/regina/123456/278
+#EXTINF:-1,Fox Premium 2 FHD[H265]
+http://pfsv.io:80/regina/123456/30210
 #EXTINF:-1,Fox Premium 2 HD
-http://canais.servidor.tv:8080/joel/joel123/29768
-#EXTINF:-1,Fox Premium 2 HD+
-http://canais.servidor.tv:8080/joel/joel123/29769
+http://pfsv.io:80/regina/123456/307
+#EXTINF:-1,Fox Premium 2 SD
+http://pfsv.io:80/regina/123456/332
+#EXTINF:-1,Fox SD
+http://pfsv.io:80/regina/123456/329
+#EXTINF:-1,FOX SD [LEG]
+http://pfsv.io:80/regina/123456/212
+#EXTINF:-1,Fox Sport 2 FHD
+http://pfsv.io:80/regina/123456/252
+#EXTINF:-1,Fox Sport 2 [4K]
+http://pfsv.io:80/regina/123456/593
+#EXTINF:-1,Fox Sports 2 FHD[H265]
+http://pfsv.io:80/regina/123456/30282
 #EXTINF:-1,Fox Sports 2 HD
-http://canais.servidor.tv:8080/joel/joel123/1501
-#EXTINF:-1,Fox Sports 2 HD+
-http://canais.servidor.tv:8080/joel/joel123/300
+http://pfsv.io:80/regina/123456/263
+#EXTINF:-1,Fox Sports 2 SD
+http://pfsv.io:80/regina/123456/272
+#EXTINF:-1,Fox Sports FHD
+http://pfsv.io:80/regina/123456/255
+#EXTINF:-1,Fox Sports FHD[H265]
+http://pfsv.io:80/regina/123456/30283
 #EXTINF:-1,Fox Sports HD
-http://canais.servidor.tv:8080/joel/joel123/1502
-#EXTINF:-1,Fox Sports HD+
-http://canais.servidor.tv:8080/joel/joel123/298
+http://pfsv.io:80/regina/123456/262
+#EXTINF:-1,Fox Sports SD
+http://pfsv.io:80/regina/123456/271
+#EXTINF:-1,Fox Sports [4K]
+http://pfsv.io:80/regina/123456/586
+#EXTINF:-1,FOX [4K]
+http://pfsv.io:80/regina/123456/5346
+#EXTINF:-1,Furacao Play TV
+http://pfsv.io:80/regina/123456/49109
+#EXTINF:-1,Futura  FHD[H265]
+http://pfsv.io:80/regina/123456/30182
+#EXTINF:-1,Futura FHD
+http://pfsv.io:80/regina/123456/43
+#EXTINF:-1,Futura HD
+http://pfsv.io:80/regina/123456/51
+#EXTINF:-1,Futura SD
+http://pfsv.io:80/regina/123456/66
+#EXTINF:-1,FX FHD
+http://pfsv.io:80/regina/123456/279
+#EXTINF:-1,FX FHD [H265]
+http://pfsv.io:80/regina/123456/30211
 #EXTINF:-1,FX HD
-http://canais.servidor.tv:8080/joel/joel123/1469
-#EXTINF:-1,FX HD+
-http://canais.servidor.tv:8080/joel/joel123/294
-#EXTINF:-1,Galinha Pintadinha
-http://canais.servidor.tv:8080/joel/joel123/32609
-#EXTINF:-1,Globo Bahia HD+
-http://canais.servidor.tv:8080/joel/joel123/2707
-#EXTINF:-1,Globo Bahia SD
-http://canais.servidor.tv:8080/joel/joel123/260
-#EXTINF:-1,Globo Brasilia HD
-http://canais.servidor.tv:8080/joel/joel123/291
-#EXTINF:-1,Globo Centro America HD+
-http://canais.servidor.tv:8080/joel/joel123/2712
-#EXTINF:-1,Globo EPTV Campinas HD
-http://canais.servidor.tv:8080/joel/joel123/289
-#EXTINF:-1,Globo EPTV Campinas HD+
-http://canais.servidor.tv:8080/joel/joel123/2711
-#EXTINF:-1,Globo EPTV Ribeirão Preto HD
-http://canais.servidor.tv:8080/joel/joel123/287
-#EXTINF:-1,Globo EPTV Ribeirão Preto HD+
-http://canais.servidor.tv:8080/joel/joel123/2952
-#EXTINF:-1,Globo EPTV Sul Minas HD
-http://canais.servidor.tv:8080/joel/joel123/4469
-#EXTINF:-1,Globo EPTV Sul Minas HD+
-http://canais.servidor.tv:8080/joel/joel123/4468
-#EXTINF:-1,Globo EPTV São Carlos HD
-http://canais.servidor.tv:8080/joel/joel123/2941
-#EXTINF:-1,Globo EPTV São Carlos HD+
-http://canais.servidor.tv:8080/joel/joel123/2940
-#EXTINF:-1,Globo Goiânia SD
-http://canais.servidor.tv:8080/joel/joel123/262
-#EXTINF:-1,Globo Inter TV Grande Minas HD
-http://canais.servidor.tv:8080/joel/joel123/4471
-#EXTINF:-1,Globo Inter TV Grande Minas HD+
-http://canais.servidor.tv:8080/joel/joel123/4470
-#EXTINF:-1,Globo Manaus
-http://canais.servidor.tv:8080/joel/joel123/19
-#EXTINF:-1,Globo Minas HD
-http://canais.servidor.tv:8080/joel/joel123/279
-#EXTINF:-1,Globo Minas HD+
-http://canais.servidor.tv:8080/joel/joel123/2713
+http://pfsv.io:80/regina/123456/308
+#EXTINF:-1,FX HD [LEG]
+http://pfsv.io:80/regina/123456/231
+#EXTINF:-1,FX SD
+http://pfsv.io:80/regina/123456/333
+#EXTINF:-1,FX SD [LEG]
+http://pfsv.io:80/regina/123456/232
+#EXTINF:-1,Globo News FHD
+http://pfsv.io:80/regina/123456/512
+#EXTINF:-1,Globo News FHD[H265]
+http://pfsv.io:80/regina/123456/30196
 #EXTINF:-1,Globo News HD
-http://canais.servidor.tv:8080/joel/joel123/1468
-#EXTINF:-1,Globo News HD+
-http://canais.servidor.tv:8080/joel/joel123/277
-#EXTINF:-1,Globo Nordeste HD
-http://canais.servidor.tv:8080/joel/joel123/275
-#EXTINF:-1,Globo Nordeste HD+
-http://canais.servidor.tv:8080/joel/joel123/2714
-#EXTINF:-1,Globo NSC Floripa HD+
-http://canais.servidor.tv:8080/joel/joel123/2710
-#EXTINF:-1,Globo RBS Poa HD
-http://canais.servidor.tv:8080/joel/joel123/1467
-#EXTINF:-1,Globo RBS Poa HD+
-http://canais.servidor.tv:8080/joel/joel123/271
-#EXTINF:-1,Globo RJ HD
-http://canais.servidor.tv:8080/joel/joel123/1504
-#EXTINF:-1,Globo RJ HD+
-http://canais.servidor.tv:8080/joel/joel123/268
-#EXTINF:-1,Globo RPC Paranaense HD+
-http://canais.servidor.tv:8080/joel/joel123/2709
-#EXTINF:-1,Globo RPC SD
-http://canais.servidor.tv:8080/joel/joel123/266
-#EXTINF:-1,Globo S.J Rio Preto HD
-http://canais.servidor.tv:8080/joel/joel123/2945
-#EXTINF:-1,Globo S.J Rio Preto HD+
-http://canais.servidor.tv:8080/joel/joel123/2944
-#EXTINF:-1,Globo Sergipe HD+
-http://canais.servidor.tv:8080/joel/joel123/250
-#EXTINF:-1,Globo São Paulo HD
-http://canais.servidor.tv:8080/joel/joel123/1466
-#EXTINF:-1,Globo São Paulo HD+
-http://canais.servidor.tv:8080/joel/joel123/265
-#EXTINF:-1,Globo TV Anhanguera HD+
-http://canais.servidor.tv:8080/joel/joel123/2708
-#EXTINF:-1,Globo TV Diario Mogi HD
-http://canais.servidor.tv:8080/joel/joel123/2947
-#EXTINF:-1,Globo TV Diario Mogi HD+
-http://canais.servidor.tv:8080/joel/joel123/2946
-#EXTINF:-1,Globo TV Fronteira HD
-http://canais.servidor.tv:8080/joel/joel123/2943
-#EXTINF:-1,Globo TV Fronteira HD+
-http://canais.servidor.tv:8080/joel/joel123/2942
-#EXTINF:-1,Globo TV Gazeta Alagoas HD+
-http://canais.servidor.tv:8080/joel/joel123/4467
-#EXTINF:-1,Globo TV Gazeta HD+
-http://canais.servidor.tv:8080/joel/joel123/75
-#EXTINF:-1,Globo TV Integração HD
-http://canais.servidor.tv:8080/joel/joel123/22505
-#EXTINF:-1,Globo TV Integração HD+
-http://canais.servidor.tv:8080/joel/joel123/22504
-#EXTINF:-1,Globo TV Liberal
-http://canais.servidor.tv:8080/joel/joel123/2706
-#EXTINF:-1,Globo TV Mirante HD+
-http://canais.servidor.tv:8080/joel/joel123/2705
-#EXTINF:-1,Globo TV Morena HD+
-http://canais.servidor.tv:8080/joel/joel123/2704
-#EXTINF:-1,Globo TV Santa Cruz SD
-http://canais.servidor.tv:8080/joel/joel123/29774
-#EXTINF:-1,Globo TV TEM Sorocaba HD
-http://canais.servidor.tv:8080/joel/joel123/2949
-#EXTINF:-1,Globo TV TEM Sorocaba HD+
-http://canais.servidor.tv:8080/joel/joel123/2948
-#EXTINF:-1,Globo TV TRIBUNA HD
-http://canais.servidor.tv:8080/joel/joel123/2954
-#EXTINF:-1,Globo TV TRIBUNA HD+
-http://canais.servidor.tv:8080/joel/joel123/2953
-#EXTINF:-1,Globo TV VANGUARDA HD
-http://canais.servidor.tv:8080/joel/joel123/2951
-#EXTINF:-1,Globo TV VANGUARDA HD+
-http://canais.servidor.tv:8080/joel/joel123/2950
-#EXTINF:-1,Globo TV Verdes Mares HD+
-http://canais.servidor.tv:8080/joel/joel123/2703
+http://pfsv.io:80/regina/123456/516
+#EXTINF:-1,Globo News SD
+http://pfsv.io:80/regina/123456/522
+#EXTINF:-1,Globo News [4K]
+http://pfsv.io:80/regina/123456/50864
+#EXTINF:-1,Globo SP FHD
+http://pfsv.io:80/regina/123456/354
+#EXTINF:-1,Globo SP FHD[H265]
+http://pfsv.io:80/regina/123456/30205
+#EXTINF:-1,Globo SP HD
+http://pfsv.io:80/regina/123456/394
+#EXTINF:-1,Globo SP SD
+http://pfsv.io:80/regina/123456/429
+#EXTINF:-1,Globo SP[4K]
+http://pfsv.io:80/regina/123456/582
+#EXTINF:-1,Gloob FHD
+http://pfsv.io:80/regina/123456/136
+#EXTINF:-1,Gloob FHD [H265]
+http://pfsv.io:80/regina/123456/30266
 #EXTINF:-1,Gloob HD
-http://canais.servidor.tv:8080/joel/joel123/1499
-#EXTINF:-1,Gloob HD+
-http://canais.servidor.tv:8080/joel/joel123/686
+http://pfsv.io:80/regina/123456/142
+#EXTINF:-1,Gloob SD
+http://pfsv.io:80/regina/123456/156
+#EXTINF:-1,Gloobinho FHD
+http://pfsv.io:80/regina/123456/128
+#EXTINF:-1,Gloobinho FHD [H265]
+http://pfsv.io:80/regina/123456/30274
 #EXTINF:-1,Gloobinho HD
-http://canais.servidor.tv:8080/joel/joel123/1515
-#EXTINF:-1,Gloobinho HD+
-http://canais.servidor.tv:8080/joel/joel123/237
+http://pfsv.io:80/regina/123456/1068
+#EXTINF:-1,Gloobinho SD
+http://pfsv.io:80/regina/123456/1069
+#EXTINF:-1,GNT FHD
+http://pfsv.io:80/regina/123456/102
+#EXTINF:-1,GNT FHD [H265]
+http://pfsv.io:80/regina/123456/30187
 #EXTINF:-1,GNT HD
-http://canais.servidor.tv:8080/joel/joel123/235
-#EXTINF:-1,H2 HD
-http://canais.servidor.tv:8080/joel/joel123/1465
-#EXTINF:-1,H2 HD+
-http://canais.servidor.tv:8080/joel/joel123/233
+http://pfsv.io:80/regina/123456/111
+#EXTINF:-1,GNT SD
+http://pfsv.io:80/regina/123456/120
+#EXTINF:-1,GNT [4K]
+http://pfsv.io:80/regina/123456/50870
+#EXTINF:-1,HBO 2 FHD
+http://pfsv.io:80/regina/123456/470
+#EXTINF:-1,HBO 2 FHD [H265]
+http://pfsv.io:80/regina/123456/30234
 #EXTINF:-1,HBO 2 HD
-http://canais.servidor.tv:8080/joel/joel123/1460
-#EXTINF:-1,HBO 2 HD+
-http://canais.servidor.tv:8080/joel/joel123/231
+http://pfsv.io:80/regina/123456/472
+#EXTINF:-1,HBO 2 SD
+http://pfsv.io:80/regina/123456/481
+#EXTINF:-1,HBO Family FHD
+http://pfsv.io:80/regina/123456/464
+#EXTINF:-1,HBO Family FHD [H265]
+http://pfsv.io:80/regina/123456/30235
 #EXTINF:-1,HBO Family HD
-http://canais.servidor.tv:8080/joel/joel123/1464
-#EXTINF:-1,HBO Family HD+
-http://canais.servidor.tv:8080/joel/joel123/229
+http://pfsv.io:80/regina/123456/473
+#EXTINF:-1,HBO Family SD
+http://pfsv.io:80/regina/123456/483
+#EXTINF:-1,HBO FHD
+http://pfsv.io:80/regina/123456/471
+#EXTINF:-1,HBO FHD [H265]
+http://pfsv.io:80/regina/123456/30236
 #EXTINF:-1,HBO HD
-http://canais.servidor.tv:8080/joel/joel123/1463
-#EXTINF:-1,HBO HD+
-http://canais.servidor.tv:8080/joel/joel123/227
+http://pfsv.io:80/regina/123456/474
+#EXTINF:-1,HBO HD [LEG]
+http://pfsv.io:80/regina/123456/213
+#EXTINF:-1,HBO Mundi FHD
+http://pfsv.io:80/regina/123456/467
+#EXTINF:-1,HBO Mundi FHD [H265]
+http://pfsv.io:80/regina/123456/30239
 #EXTINF:-1,HBO Mundi HD
-http://canais.servidor.tv:8080/joel/joel123/1457
-#EXTINF:-1,HBO Mundi HD+
-http://canais.servidor.tv:8080/joel/joel123/211
+http://pfsv.io:80/regina/123456/477
+#EXTINF:-1,HBO Mundi SD
+http://pfsv.io:80/regina/123456/485
+#EXTINF:-1,HBO Plus FHD
+http://pfsv.io:80/regina/123456/465
+#EXTINF:-1,HBO Plus FHD [H265]
+http://pfsv.io:80/regina/123456/30237
 #EXTINF:-1,HBO Plus HD
-http://canais.servidor.tv:8080/joel/joel123/1462
-#EXTINF:-1,HBO Plus HD+
-http://canais.servidor.tv:8080/joel/joel123/226
+http://pfsv.io:80/regina/123456/475
+#EXTINF:-1,HBO PLUS HD [LEG]
+http://pfsv.io:80/regina/123456/215
+#EXTINF:-1,HBO Plus SD
+http://pfsv.io:80/regina/123456/482
+#EXTINF:-1,HBO PLUS SD [LEG]
+http://pfsv.io:80/regina/123456/216
+#EXTINF:-1,HBO POP FHD
+http://pfsv.io:80/regina/123456/469
+#EXTINF:-1,HBO Pop FHD [H265]
+http://pfsv.io:80/regina/123456/30241
 #EXTINF:-1,HBO Pop HD
-http://canais.servidor.tv:8080/joel/joel123/1455
-#EXTINF:-1,HBO Pop HD+
-http://canais.servidor.tv:8080/joel/joel123/207
+http://pfsv.io:80/regina/123456/479
+#EXTINF:-1,HBO POP HD [LEG]
+http://pfsv.io:80/regina/123456/233
+#EXTINF:-1,HBO Pop SD
+http://pfsv.io:80/regina/123456/487
+#EXTINF:-1,HBO POP SD [LEG]
+http://pfsv.io:80/regina/123456/234
+#EXTINF:-1,HBO SD
+http://pfsv.io:80/regina/123456/480
+#EXTINF:-1,HBO SD [LEG]
+http://pfsv.io:80/regina/123456/214
+#EXTINF:-1,HBO Signature FHD
+http://pfsv.io:80/regina/123456/466
+#EXTINF:-1,HBO Signature FHD [H265]
+http://pfsv.io:80/regina/123456/30238
 #EXTINF:-1,HBO Signature HD
-http://canais.servidor.tv:8080/joel/joel123/1461
-#EXTINF:-1,HBO Signature HD+
-http://canais.servidor.tv:8080/joel/joel123/224
+http://pfsv.io:80/regina/123456/476
+#EXTINF:-1,HBO Signature SD
+http://pfsv.io:80/regina/123456/484
+#EXTINF:-1,HBO Xtreme FHD
+http://pfsv.io:80/regina/123456/468
+#EXTINF:-1,HBO Xtreme FHD [H265]
+http://pfsv.io:80/regina/123456/30240
 #EXTINF:-1,HBO Xtreme HD
-http://canais.servidor.tv:8080/joel/joel123/1456
-#EXTINF:-1,HBO Xtreme HD+
-http://canais.servidor.tv:8080/joel/joel123/209
+http://pfsv.io:80/regina/123456/478
+#EXTINF:-1,HBO Xtreme SD
+http://pfsv.io:80/regina/123456/486
+#EXTINF:-1,HBO XTREME SD [LEG]
+http://pfsv.io:80/regina/123456/217
+#EXTINF:-1,HBO Xtreme [4K]
+http://pfsv.io:80/regina/123456/5344
+#EXTINF:-1,HBO [4K]
+http://pfsv.io:80/regina/123456/599
+#EXTINF:-1,HGTV FHD
+http://pfsv.io:80/regina/123456/167
+#EXTINF:-1,HGTV FHD [H265]
+http://pfsv.io:80/regina/123456/30253
+#EXTINF:-1,HGTV HD
+http://pfsv.io:80/regina/123456/182
+#EXTINF:-1,HGTV SD
+http://pfsv.io:80/regina/123456/197
+#EXTINF:-1,History Channel 2 FHD
+http://pfsv.io:80/regina/123456/173
+#EXTINF:-1,History Channel 2 FHD [H265]
+http://pfsv.io:80/regina/123456/30262
+#EXTINF:-1,History Channel 2 HD
+http://pfsv.io:80/regina/123456/188
+#EXTINF:-1,History Channel 2 SD
+http://pfsv.io:80/regina/123456/203
+#EXTINF:-1,History Channel FHD
+http://pfsv.io:80/regina/123456/174
+#EXTINF:-1,History Channel FHD[H265]
+http://pfsv.io:80/regina/123456/30250
 #EXTINF:-1,History Channel HD
-http://canais.servidor.tv:8080/joel/joel123/1459
-#EXTINF:-1,History Channel HD+
-http://canais.servidor.tv:8080/joel/joel123/95
+http://pfsv.io:80/regina/123456/189
+#EXTINF:-1,History Channel SD
+http://pfsv.io:80/regina/123456/204
+#EXTINF:-1,Investigacao Discovery Channel FHD [H265]
+http://pfsv.io:80/regina/123456/30259
+#EXTINF:-1,Investigacao Discovery FHD
+http://pfsv.io:80/regina/123456/175
+#EXTINF:-1,Investigacao Discovery HD
+http://pfsv.io:80/regina/123456/190
 #EXTINF:-1,Investigacao Discovery SD
-http://canais.servidor.tv:8080/joel/joel123/1514
-#EXTINF:-1,Investigação Discovery HD+
-http://canais.servidor.tv:8080/joel/joel123/218
-#EXTINF:-1,Lifetime HD
-http://canais.servidor.tv:8080/joel/joel123/1458
-#EXTINF:-1,Lifetime HD+
-http://canais.servidor.tv:8080/joel/joel123/216
-#EXTINF:-1,Luluzinha
-http://canais.servidor.tv:8080/joel/joel123/32629
-#EXTINF:-1,Mais Globosat HD
-http://canais.servidor.tv:8080/joel/joel123/213
-#EXTINF:-1,Masha e o Urso
-http://canais.servidor.tv:8080/joel/joel123/32593
-#EXTINF:-1,Medabots
-http://canais.servidor.tv:8080/joel/joel123/32608
+http://pfsv.io:80/regina/123456/205
+#EXTINF:-1,Life Time FHD
+http://pfsv.io:80/regina/123456/280
+#EXTINF:-1,Life Time FHD [H265]
+http://pfsv.io:80/regina/123456/30217
+#EXTINF:-1,Life Time HD
+http://pfsv.io:80/regina/123456/309
+#EXTINF:-1,Life Time SD
+http://pfsv.io:80/regina/123456/334
+#EXTINF:-1,Liga Futsal 2020
+http://pfsv.io:80/regina/123456/49108
+#EXTINF:-1,Love Natural FHD
+http://pfsv.io:80/regina/123456/50835
+#EXTINF:-1,Mais GloboSat FHD
+http://pfsv.io:80/regina/123456/103
+#EXTINF:-1,Mais GloboSat FHD[H265]
+http://pfsv.io:80/regina/123456/30194
+#EXTINF:-1,Mais GloboSat HD
+http://pfsv.io:80/regina/123456/112
+#EXTINF:-1,Mais GloboSat SD
+http://pfsv.io:80/regina/123456/121
+#EXTINF:-1,MAX SD [LEG]
+http://pfsv.io:80/regina/123456/218
+#EXTINF:-1,MegaPix FHD
+http://pfsv.io:80/regina/123456/281
+#EXTINF:-1,MegaPix FHD[H265]
+http://pfsv.io:80/regina/123456/30218
 #EXTINF:-1,Megapix HD
-http://canais.servidor.tv:8080/joel/joel123/1454
-#EXTINF:-1,Megapix HD+
-http://canais.servidor.tv:8080/joel/joel123/204
-#EXTINF:-1,Mickey Mouse Cartoon
-http://canais.servidor.tv:8080/joel/joel123/32598
-#EXTINF:-1,Mickey Mouse Clássico
-http://canais.servidor.tv:8080/joel/joel123/32597
+http://pfsv.io:80/regina/123456/310
+#EXTINF:-1,Megapix HD[LEG]
+http://pfsv.io:80/regina/123456/235
+#EXTINF:-1,MegaPix SD
+http://pfsv.io:80/regina/123456/335
+#EXTINF:-1,Megapix SD [LEG]
+http://pfsv.io:80/regina/123456/236
+#EXTINF:-1,Megapix [4K]
+http://pfsv.io:80/regina/123456/592
+#EXTINF:-1,MTV  FHD[H265]
+http://pfsv.io:80/regina/123456/30175
+#EXTINF:-1,MTV FHD
+http://pfsv.io:80/regina/123456/1
 #EXTINF:-1,MTV HD
-http://canais.servidor.tv:8080/joel/joel123/1453
-#EXTINF:-1,MTV HD+
-http://canais.servidor.tv:8080/joel/joel123/202
-#EXTINF:-1,Multishow HD
-http://canais.servidor.tv:8080/joel/joel123/1452
-#EXTINF:-1,Multishow HD+
-http://canais.servidor.tv:8080/joel/joel123/199
-#EXTINF:-1,Mundo Bita
-http://canais.servidor.tv:8080/joel/joel123/32607
-#EXTINF:-1,Nat Geo Kids HD
-http://canais.servidor.tv:8080/joel/joel123/1451
-#EXTINF:-1,Nat Geo Kids HD+
-http://canais.servidor.tv:8080/joel/joel123/195
-#EXTINF:-1,Nat Geo Wild HD
-http://canais.servidor.tv:8080/joel/joel123/1450
-#EXTINF:-1,Nat Geo Wild HD+
-http://canais.servidor.tv:8080/joel/joel123/193
-#EXTINF:-1,National Geographic HD+
-http://canais.servidor.tv:8080/joel/joel123/196
+http://pfsv.io:80/regina/123456/15
+#EXTINF:-1,MTV Live FHD [H265]
+http://pfsv.io:80/regina/123456/30172
+#EXTINF:-1,MTV Live FHD
+http://pfsv.io:80/regina/123456/2
+#EXTINF:-1,MTV Live HD
+http://pfsv.io:80/regina/123456/13
+#EXTINF:-1,MTV Live SD
+http://pfsv.io:80/regina/123456/6
+#EXTINF:-1,MTV SD
+http://pfsv.io:80/regina/123456/9
+#EXTINF:-1,MultShow FHD[H265]
+http://pfsv.io:80/regina/123456/30173
+#EXTINF:-1,Multishow FHD
+http://pfsv.io:80/regina/123456/3
+#EXTINF:-1,MultiShow HD
+http://pfsv.io:80/regina/123456/16
+#EXTINF:-1,MultiShow SD
+http://pfsv.io:80/regina/123456/10
+#EXTINF:-1,MultiShow [4K]
+http://pfsv.io:80/regina/123456/590
+#EXTINF:-1,Music BOX BRASIL FHD
+http://pfsv.io:80/regina/123456/4
+#EXTINF:-1,Music Box BRASIL HD
+http://pfsv.io:80/regina/123456/17
+#EXTINF:-1,Music Box BRASIL SD
+http://pfsv.io:80/regina/123456/11
+#EXTINF:-1,MUSIC BOX BRAZIL  FHD[H265]
+http://pfsv.io:80/regina/123456/30176
+#EXTINF:-1,NatGeo Kids FHD
+http://pfsv.io:80/regina/123456/129
+#EXTINF:-1,NatGeo KIDS FHD [H265]
+http://pfsv.io:80/regina/123456/30272
+#EXTINF:-1,NatGeo Kids HD
+http://pfsv.io:80/regina/123456/143
+#EXTINF:-1,NatGeo Kids SD
+http://pfsv.io:80/regina/123456/157
+#EXTINF:-1,National Geografic FHD [H265]
+http://pfsv.io:80/regina/123456/30251
+#EXTINF:-1,National Geografic Wild FHD [H265]
+http://pfsv.io:80/regina/123456/30252
+#EXTINF:-1,National Geographic FHD
+http://pfsv.io:80/regina/123456/176
+#EXTINF:-1,National Geographic HD
+http://pfsv.io:80/regina/123456/191
+#EXTINF:-1,National Geographic SD
+http://pfsv.io:80/regina/123456/206
+#EXTINF:-1,National Geographic Wild FHD
+http://pfsv.io:80/regina/123456/177
+#EXTINF:-1,National Geographic Wild HD
+http://pfsv.io:80/regina/123456/192
+#EXTINF:-1,National Geographic Wild SD
+http://pfsv.io:80/regina/123456/207
+#EXTINF:-1,National Geographic [4K]
+http://pfsv.io:80/regina/123456/594
+#EXTINF:-1,NBR SD
+http://pfsv.io:80/regina/123456/86
+#EXTINF:-1,Nick JR FHD
+http://pfsv.io:80/regina/123456/130
+#EXTINF:-1,Nick JR FHD[H265]
+http://pfsv.io:80/regina/123456/30263
 #EXTINF:-1,Nick JR HD
-http://canais.servidor.tv:8080/joel/joel123/1503
-#EXTINF:-1,Nick JR HD+
-http://canais.servidor.tv:8080/joel/joel123/187
+http://pfsv.io:80/regina/123456/144
+#EXTINF:-1,Nick Jr SD
+http://pfsv.io:80/regina/123456/158
+#EXTINF:-1,Nickelodeon FHD
+http://pfsv.io:80/regina/123456/131
+#EXTINF:-1,Nickelodeon FHD [H265]
+http://pfsv.io:80/regina/123456/30264
 #EXTINF:-1,Nickelodeon HD
-http://canais.servidor.tv:8080/joel/joel123/1449
-#EXTINF:-1,Nickelodeon HD+
-http://canais.servidor.tv:8080/joel/joel123/188
-#EXTINF:-1,Novo Tempo HD
-http://canais.servidor.tv:8080/joel/joel123/22507
-#EXTINF:-1,O Pequeno Urso
-http://canais.servidor.tv:8080/joel/joel123/32630
-#EXTINF:-1,O Show da Luna
-http://canais.servidor.tv:8080/joel/joel123/32606
+http://pfsv.io:80/regina/123456/145
+#EXTINF:-1,Nickelodeon SD
+http://pfsv.io:80/regina/123456/159
+#EXTINF:-1,OFF FHD
+http://pfsv.io:80/regina/123456/253
+#EXTINF:-1,OFF FHD[H265]
+http://pfsv.io:80/regina/123456/30279
 #EXTINF:-1,OFF HD
-http://canais.servidor.tv:8080/joel/joel123/183
-#EXTINF:-1,Operação Fronteira América do Sul
-http://canais.servidor.tv:8080/joel/joel123/32681
-#EXTINF:-1,Os Simpsons
-http://canais.servidor.tv:8080/joel/joel123/32591
-#EXTINF:-1,Pai Eterno HD
-http://canais.servidor.tv:8080/joel/joel123/22509
-#EXTINF:-1,Papaléguas e o Coiote
-http://canais.servidor.tv:8080/joel/joel123/32605
+http://pfsv.io:80/regina/123456/264
+#EXTINF:-1,OFF SD
+http://pfsv.io:80/regina/123456/273
+#EXTINF:-1,Paramount Channel FHD
+http://pfsv.io:80/regina/123456/296
 #EXTINF:-1,Paramount Channel HD
-http://canais.servidor.tv:8080/joel/joel123/1448
-#EXTINF:-1,Paramount Channel HD+
-http://canais.servidor.tv:8080/joel/joel123/181
-#EXTINF:-1,Patrulha Canina
-http://canais.servidor.tv:8080/joel/joel123/32604
-#EXTINF:-1,Peppa Pig
-http://canais.servidor.tv:8080/joel/joel123/32631
-#EXTINF:-1,Pica-Pau
-http://canais.servidor.tv:8080/joel/joel123/32588
-#EXTINF:-1,Play TV SD
-http://canais.servidor.tv:8080/joel/joel123/179
-#EXTINF:-1,Polícia 24 Horas
-http://canais.servidor.tv:8080/joel/joel123/32596
+http://pfsv.io:80/regina/123456/311
+#EXTINF:-1,Paramount Channel SD
+http://pfsv.io:80/regina/123456/336
+#EXTINF:-1,Paramount Channel FHD[H265]
+http://pfsv.io:80/regina/123456/30213
+#EXTINF:-1,PlayKids FHD
+http://pfsv.io:80/regina/123456/137
+#EXTINF:-1,PlayKids HD
+http://pfsv.io:80/regina/123456/147
+#EXTINF:-1,PlayKids SD
+http://pfsv.io:80/regina/123456/162
+#EXTINF:-1,Polishop TV SD
+http://pfsv.io:80/regina/123456/124
+#EXTINF:-1,Premiere 2 FHD
+http://pfsv.io:80/regina/123456/525
+#EXTINF:-1,Premiere 2 FHD [H265]
+http://pfsv.io:80/regina/123456/30284
 #EXTINF:-1,Premiere 2 HD
-http://canais.servidor.tv:8080/joel/joel123/1511
-#EXTINF:-1,Premiere 2 HD+
-http://canais.servidor.tv:8080/joel/joel123/172
+http://pfsv.io:80/regina/123456/531
+#EXTINF:-1,Premiere 2 SD
+http://pfsv.io:80/regina/123456/538
+#EXTINF:-1,Premiere 3  FHD [H265]
+http://pfsv.io:80/regina/123456/30285
+#EXTINF:-1,Premiere 3 FHD
+http://pfsv.io:80/regina/123456/526
 #EXTINF:-1,Premiere 3 HD
-http://canais.servidor.tv:8080/joel/joel123/1510
-#EXTINF:-1,Premiere 3 HD+
-http://canais.servidor.tv:8080/joel/joel123/170
+http://pfsv.io:80/regina/123456/532
+#EXTINF:-1,Premiere 3 SD
+http://pfsv.io:80/regina/123456/539
+#EXTINF:-1,Premiere 4 FHD
+http://pfsv.io:80/regina/123456/527
+#EXTINF:-1,Premiere 4 FHD [H265]
+http://pfsv.io:80/regina/123456/30288
 #EXTINF:-1,Premiere 4 HD
-http://canais.servidor.tv:8080/joel/joel123/1509
-#EXTINF:-1,Premiere 4 HD+
-http://canais.servidor.tv:8080/joel/joel123/168
+http://pfsv.io:80/regina/123456/533
+#EXTINF:-1,Premiere 4 SD
+http://pfsv.io:80/regina/123456/540
+#EXTINF:-1,Premiere 5 FHD
+http://pfsv.io:80/regina/123456/528
+#EXTINF:-1,Premiere 5 FHD [H265]
+http://pfsv.io:80/regina/123456/30286
 #EXTINF:-1,Premiere 5 HD
-http://canais.servidor.tv:8080/joel/joel123/1508
-#EXTINF:-1,Premiere 5 HD+
-http://canais.servidor.tv:8080/joel/joel123/166
+http://pfsv.io:80/regina/123456/534
+#EXTINF:-1,Premiere 5 SD
+http://pfsv.io:80/regina/123456/541
+#EXTINF:-1,Premiere 6 FHD
+http://pfsv.io:80/regina/123456/529
+#EXTINF:-1,Premiere 6 FHD [H265]
+http://pfsv.io:80/regina/123456/30289
 #EXTINF:-1,Premiere 6 HD
-http://canais.servidor.tv:8080/joel/joel123/1507
-#EXTINF:-1,Premiere 6 HD+
-http://canais.servidor.tv:8080/joel/joel123/164
+http://pfsv.io:80/regina/123456/535
+#EXTINF:-1,Premiere 6 SD
+http://pfsv.io:80/regina/123456/542
+#EXTINF:-1,Premiere 7 FHD
+http://pfsv.io:80/regina/123456/530
+#EXTINF:-1,Premiere 7 FHD [H265]
+http://pfsv.io:80/regina/123456/30290
 #EXTINF:-1,Premiere 7 HD
-http://canais.servidor.tv:8080/joel/joel123/1506
-#EXTINF:-1,Premiere 7 HD+
-http://canais.servidor.tv:8080/joel/joel123/162
+http://pfsv.io:80/regina/123456/536
+#EXTINF:-1,Premiere 7 SD
+http://pfsv.io:80/regina/123456/543
+#EXTINF:-1,Premiere Club [4K]
+http://pfsv.io:80/regina/123456/584
+#EXTINF:-1,Premiere Clubes FHD
+http://pfsv.io:80/regina/123456/524
+#EXTINF:-1,Premiere Clubes FHD [H265]
+http://pfsv.io:80/regina/123456/30287
 #EXTINF:-1,Premiere Clubes HD
-http://canais.servidor.tv:8080/joel/joel123/1447
-#EXTINF:-1,Premiere Clubes HD+
-http://canais.servidor.tv:8080/joel/joel123/159
+http://pfsv.io:80/regina/123456/537
+#EXTINF:-1,Premiere Clubes SD
+http://pfsv.io:80/regina/123456/544
+#EXTINF:-1,Premiere Internacional
+http://pfsv.io:80/regina/123456/501
+#EXTINF:-1,Prime Box Brasil FHD
+http://pfsv.io:80/regina/123456/104
+#EXTINF:-1,Prime Box Brasil FHD [H265]
+http://pfsv.io:80/regina/123456/30190
 #EXTINF:-1,Prime Box Brasil HD
-http://canais.servidor.tv:8080/joel/joel123/4456
-#EXTINF:-1,Prime Box Brasil HD+
-http://canais.servidor.tv:8080/joel/joel123/157
-#EXTINF:-1,Record BA HD
-http://canais.servidor.tv:8080/joel/joel123/29777
-#EXTINF:-1,Record Belem HD
-http://canais.servidor.tv:8080/joel/joel123/29775
-#EXTINF:-1,Record DF HD
-http://canais.servidor.tv:8080/joel/joel123/29776
-#EXTINF:-1,Record GO HD
-http://canais.servidor.tv:8080/joel/joel123/29779
-#EXTINF:-1,Record MG HD
-http://canais.servidor.tv:8080/joel/joel123/29778
+http://pfsv.io:80/regina/123456/113
+#EXTINF:-1,Prime Box Brasil SD
+http://pfsv.io:80/regina/123456/122
+#EXTINF:-1,Rai Italia FHD
+http://pfsv.io:80/regina/123456/50873
+#EXTINF:-1,Rai Italia HD
+http://pfsv.io:80/regina/123456/33403
+#EXTINF:-1,RCI SD
+http://pfsv.io:80/regina/123456/550
+#EXTINF:-1,Record News FHD
+http://pfsv.io:80/regina/123456/511
 #EXTINF:-1,Record News HD
-http://canais.servidor.tv:8080/joel/joel123/1513
-#EXTINF:-1,Record News HD+
-http://canais.servidor.tv:8080/joel/joel123/405
-#EXTINF:-1,Record PA HD
-http://canais.servidor.tv:8080/joel/joel123/29782
-#EXTINF:-1,Record RJ HD
-http://canais.servidor.tv:8080/joel/joel123/29780
-#EXTINF:-1,Record RS HD
-http://canais.servidor.tv:8080/joel/joel123/29781
-#EXTINF:-1,Record SP HD
-http://canais.servidor.tv:8080/joel/joel123/403
-#EXTINF:-1,Record SP HD+
-http://canais.servidor.tv:8080/joel/joel123/148
-#EXTINF:-1,Rede TV HD
-http://canais.servidor.tv:8080/joel/joel123/136
+http://pfsv.io:80/regina/123456/515
+#EXTINF:-1,Record News SD
+http://pfsv.io:80/regina/123456/521
+#EXTINF:-1,RecordTV SP FHD
+http://pfsv.io:80/regina/123456/45
+#EXTINF:-1,RecordTV SP HD
+http://pfsv.io:80/regina/123456/52
+#EXTINF:-1,RecordTV SP SD
+http://pfsv.io:80/regina/123456/67
+#EXTINF:-1,RecordTV SP [4K]
+http://pfsv.io:80/regina/123456/583
+#EXTINF:-1,RecordTV SP2 HD
+http://pfsv.io:80/regina/123456/53
+#EXTINF:-1,RecordTV SP2 SD
+http://pfsv.io:80/regina/123456/68
+#EXTINF:-1,RecordTV Vitoria SD
+http://pfsv.io:80/regina/123456/34014
+#EXTINF:-1,Rede Brasil SD
+http://pfsv.io:80/regina/123456/87
+#EXTINF:-1,Rede Familia SD
+http://pfsv.io:80/regina/123456/34015
+#EXTINF:-1,Rede Gospel SD
+http://pfsv.io:80/regina/123456/34016
+#EXTINF:-1,Rede Super
+http://pfsv.io:80/regina/123456/50789
+#EXTINF:-1,Rede Vida FHD
+http://pfsv.io:80/regina/123456/545
+#EXTINF:-1,Rede Vida FHD [H265]
+http://pfsv.io:80/regina/123456/30296
 #EXTINF:-1,Rede Vida HD
-http://canais.servidor.tv:8080/joel/joel123/22506
+http://pfsv.io:80/regina/123456/547
+#EXTINF:-1,Rede Vida SD
+http://pfsv.io:80/regina/123456/551
+#EXTINF:-1,RedeTV News [4K]
+http://pfsv.io:80/regina/123456/598
+#EXTINF:-1,RedeTV! FHD
+http://pfsv.io:80/regina/123456/48
+#EXTINF:-1,RedeTv! FHD [H265]
+http://pfsv.io:80/regina/123456/30180
+#EXTINF:-1,RedeTV! HD
+http://pfsv.io:80/regina/123456/54
+#EXTINF:-1,RedeTV! SD
+http://pfsv.io:80/regina/123456/69
 #EXTINF:-1,RIT TV SD
-http://canais.servidor.tv:8080/joel/joel123/22510
-#EXTINF:-1,Rá Tim Bum HD
-http://canais.servidor.tv:8080/joel/joel123/72
-#EXTINF:-1,SBT HD
-http://canais.servidor.tv:8080/joel/joel123/1512
-#EXTINF:-1,SBT HD+
-http://canais.servidor.tv:8080/joel/joel123/402
-#EXTINF:-1,Scooby-Doo
-http://canais.servidor.tv:8080/joel/joel123/32603
-#EXTINF:-1,Shoptime SD
-http://canais.servidor.tv:8080/joel/joel123/29773
-#EXTINF:-1,Sony HD
-http://canais.servidor.tv:8080/joel/joel123/1446
-#EXTINF:-1,Sony HD+
-http://canais.servidor.tv:8080/joel/joel123/127
-#EXTINF:-1,South Park
-http://canais.servidor.tv:8080/joel/joel123/32602
+http://pfsv.io:80/regina/123456/549
+#EXTINF:-1,SBT FHD [H265]
+http://pfsv.io:80/regina/123456/30179
+#EXTINF:-1,SBT Goias HD
+http://pfsv.io:80/regina/123456/34017
+#EXTINF:-1,SBT SP HD
+http://pfsv.io:80/regina/123456/55
+#EXTINF:-1,Space FHD
+http://pfsv.io:80/regina/123456/282
+#EXTINF:-1,Space FHD[H265]
+http://pfsv.io:80/regina/123456/30214
 #EXTINF:-1,Space HD
-http://canais.servidor.tv:8080/joel/joel123/1445
-#EXTINF:-1,Space HD+
-http://canais.servidor.tv:8080/joel/joel123/125
+http://pfsv.io:80/regina/123456/313
+#EXTINF:-1,Space HD[LEG]
+http://pfsv.io:80/regina/123456/237
+#EXTINF:-1,Space SD
+http://pfsv.io:80/regina/123456/338
+#EXTINF:-1,Space SD [LEG]
+http://pfsv.io:80/regina/123456/238
+#EXTINF:-1,Space [4K]
+http://pfsv.io:80/regina/123456/596
+#EXTINF:-1,SporTV 2 FHD
+http://pfsv.io:80/regina/123456/553
+#EXTINF:-1,SporTV 2 FHD [H265]
+http://pfsv.io:80/regina/123456/30291
 #EXTINF:-1,SporTV 2 HD
-http://canais.servidor.tv:8080/joel/joel123/1443
-#EXTINF:-1,SporTV 2 HD+
-http://canais.servidor.tv:8080/joel/joel123/123
+http://pfsv.io:80/regina/123456/557
+#EXTINF:-1,SporTV 2 SD
+http://pfsv.io:80/regina/123456/560
+#EXTINF:-1,SporTV 3 FHD
+http://pfsv.io:80/regina/123456/554
+#EXTINF:-1,SporTV 3 FHD [H265]
+http://pfsv.io:80/regina/123456/30292
 #EXTINF:-1,SporTV 3 HD
-http://canais.servidor.tv:8080/joel/joel123/1442
-#EXTINF:-1,SporTV 3 HD+
-http://canais.servidor.tv:8080/joel/joel123/121
+http://pfsv.io:80/regina/123456/558
+#EXTINF:-1,SporTV 3 SD
+http://pfsv.io:80/regina/123456/561
+#EXTINF:-1,SporTV FHD
+http://pfsv.io:80/regina/123456/555
+#EXTINF:-1,SporTV FHD [H265]
+http://pfsv.io:80/regina/123456/30293
 #EXTINF:-1,SporTV HD
-http://canais.servidor.tv:8080/joel/joel123/1444
-#EXTINF:-1,SporTV HD+
-http://canais.servidor.tv:8080/joel/joel123/119
+http://pfsv.io:80/regina/123456/556
+#EXTINF:-1,SporTV SD
+http://pfsv.io:80/regina/123456/559
+#EXTINF:-1,SporTV [4K]
+http://pfsv.io:80/regina/123456/589
+#EXTINF:-1,Studio Universal FHD
+http://pfsv.io:80/regina/123456/283
+#EXTINF:-1,Studio Universal FHD[H265]
+http://pfsv.io:80/regina/123456/30221
 #EXTINF:-1,Studio Universal HD
-http://canais.servidor.tv:8080/joel/joel123/1441
-#EXTINF:-1,Studio Universal HD+
-http://canais.servidor.tv:8080/joel/joel123/117
-#EXTINF:-1,Super Choque
-http://canais.servidor.tv:8080/joel/joel123/32627
-#EXTINF:-1,Syfy HD
-http://canais.servidor.tv:8080/joel/joel123/1440
-#EXTINF:-1,Syfy HD+
-http://canais.servidor.tv:8080/joel/joel123/115
+http://pfsv.io:80/regina/123456/320
+#EXTINF:-1,Studio Universal SD
+http://pfsv.io:80/regina/123456/346
+#EXTINF:-1,SYFY FHD
+http://pfsv.io:80/regina/123456/284
+#EXTINF:-1,SYFY FHD[H265]
+http://pfsv.io:80/regina/123456/30222
+#EXTINF:-1,SYFY HD
+http://pfsv.io:80/regina/123456/312
+#EXTINF:-1,SYFY SD
+http://pfsv.io:80/regina/123456/337
+#EXTINF:-1,TBS FHD
+http://pfsv.io:80/regina/123456/285
+#EXTINF:-1,TBS FHD[H265]
+http://pfsv.io:80/regina/123456/30223
 #EXTINF:-1,TBS HD
-http://canais.servidor.tv:8080/joel/joel123/113
+http://pfsv.io:80/regina/123456/321
+#EXTINF:-1,TBS SD
+http://pfsv.io:80/regina/123456/347
 #EXTINF:-1,TCM HD
-http://canais.servidor.tv:8080/joel/joel123/99
+http://pfsv.io:80/regina/123456/50884
+#EXTINF:-1,TCM SD
+http://pfsv.io:80/regina/123456/339
+#EXTINF:-1,Telecine Action FHD
+http://pfsv.io:80/regina/123456/562
+#EXTINF:-1,Telecine Action FHD[H265]
+http://pfsv.io:80/regina/123456/30242
 #EXTINF:-1,Telecine Action HD
-http://canais.servidor.tv:8080/joel/joel123/1438
-#EXTINF:-1,Telecine Action HD+
-http://canais.servidor.tv:8080/joel/joel123/111
+http://pfsv.io:80/regina/123456/568
+#EXTINF:-1,Telecine Action HD [LEG]
+http://pfsv.io:80/regina/123456/219
+#EXTINF:-1,Telecine Action SD
+http://pfsv.io:80/regina/123456/574
+#EXTINF:-1,Telecine Action SD [LEG]
+http://pfsv.io:80/regina/123456/220
+#EXTINF:-1,Telecine Action [4K]
+http://pfsv.io:80/regina/123456/50871
+#EXTINF:-1,Telecine Cult FHD
+http://pfsv.io:80/regina/123456/567
+#EXTINF:-1,Telecine Cult FHD[H265]
+http://pfsv.io:80/regina/123456/30243
 #EXTINF:-1,Telecine Cult HD
-http://canais.servidor.tv:8080/joel/joel123/1437
-#EXTINF:-1,Telecine Cult HD+
-http://canais.servidor.tv:8080/joel/joel123/109
+http://pfsv.io:80/regina/123456/569
+#EXTINF:-1,Telecine Cult HD [LEG]
+http://pfsv.io:80/regina/123456/246
+#EXTINF:-1,Telecine Cult SD
+http://pfsv.io:80/regina/123456/575
+#EXTINF:-1,Telecine Cult SD [LEG]
+http://pfsv.io:80/regina/123456/245
+#EXTINF:-1,Telecine Fun FHD
+http://pfsv.io:80/regina/123456/563
+#EXTINF:-1,Telecine Fun FHD [H265]
+http://pfsv.io:80/regina/123456/30244
 #EXTINF:-1,Telecine Fun HD
-http://canais.servidor.tv:8080/joel/joel123/1436
-#EXTINF:-1,Telecine Fun HD+
-http://canais.servidor.tv:8080/joel/joel123/107
+http://pfsv.io:80/regina/123456/570
+#EXTINF:-1,Telecine Fun HD [LEG]
+http://pfsv.io:80/regina/123456/221
+#EXTINF:-1,Telecine Fun SD
+http://pfsv.io:80/regina/123456/576
+#EXTINF:-1,Telecine Fun SD [LEG]
+http://pfsv.io:80/regina/123456/222
+#EXTINF:-1,Telecine Pipoca FHD
+http://pfsv.io:80/regina/123456/564
+#EXTINF:-1,Telecine Pipoca FHD[H265]
+http://pfsv.io:80/regina/123456/30245
 #EXTINF:-1,Telecine Pipoca HD
-http://canais.servidor.tv:8080/joel/joel123/1435
-#EXTINF:-1,Telecine Pipoca HD+
-http://canais.servidor.tv:8080/joel/joel123/105
+http://pfsv.io:80/regina/123456/572
+#EXTINF:-1,Telecine Pipoca HD [LEG]
+http://pfsv.io:80/regina/123456/223
+#EXTINF:-1,Telecine Pipoca SD
+http://pfsv.io:80/regina/123456/578
+#EXTINF:-1,Telecine Pipoca SD [LEG]
+http://pfsv.io:80/regina/123456/224
+#EXTINF:-1,Telecine Pipoca [4K]
+http://pfsv.io:80/regina/123456/5345
+#EXTINF:-1,Telecine Premium FHD
+http://pfsv.io:80/regina/123456/565
+#EXTINF:-1,Telecine Premium FHD[H265]
+http://pfsv.io:80/regina/123456/30246
 #EXTINF:-1,Telecine Premium HD
-http://canais.servidor.tv:8080/joel/joel123/1434
-#EXTINF:-1,Telecine Premium HD+
-http://canais.servidor.tv:8080/joel/joel123/103
+http://pfsv.io:80/regina/123456/573
+#EXTINF:-1,Telecine Premium HD [LEG]
+http://pfsv.io:80/regina/123456/225
+#EXTINF:-1,Telecine Premium SD
+http://pfsv.io:80/regina/123456/579
+#EXTINF:-1,Telecine Premium SD [LEG]
+http://pfsv.io:80/regina/123456/226
+#EXTINF:-1,Telecine Premium [4K]
+http://pfsv.io:80/regina/123456/597
+#EXTINF:-1,Telecine Touch FHD
+http://pfsv.io:80/regina/123456/566
+#EXTINF:-1,Telecine Touch FHD[H265]
+http://pfsv.io:80/regina/123456/30247
 #EXTINF:-1,Telecine Touch HD
-http://canais.servidor.tv:8080/joel/joel123/1439
-#EXTINF:-1,Telecine Touch HD+
-http://canais.servidor.tv:8080/joel/joel123/101
+http://pfsv.io:80/regina/123456/571
+#EXTINF:-1,Telecine Touch HD [LEG]
+http://pfsv.io:80/regina/123456/227
+#EXTINF:-1,Telecine Touch SD
+http://pfsv.io:80/regina/123456/577
+#EXTINF:-1,Telecine Touch SD [LEG]
+http://pfsv.io:80/regina/123456/228
+#EXTINF:-1,Terra Viva SD
+http://pfsv.io:80/regina/123456/88
+#EXTINF:-1,TLC FHD
+http://pfsv.io:80/regina/123456/286
+#EXTINF:-1,TLC FHD[H265]
+http://pfsv.io:80/regina/123456/30229
 #EXTINF:-1,TLC HD
-http://canais.servidor.tv:8080/joel/joel123/94
+http://pfsv.io:80/regina/123456/314
+#EXTINF:-1,TLC SD
+http://pfsv.io:80/regina/123456/340
+#EXTINF:-1,TNT FHD
+http://pfsv.io:80/regina/123456/287
+#EXTINF:-1,TNT FHD[H265]
+http://pfsv.io:80/regina/123456/30224
 #EXTINF:-1,TNT HD
-http://canais.servidor.tv:8080/joel/joel123/1433
-#EXTINF:-1,TNT HD+
-http://canais.servidor.tv:8080/joel/joel123/92
-#EXTINF:-1,TNT Series HD
-http://canais.servidor.tv:8080/joel/joel123/1432
-#EXTINF:-1,TNT Séries HD+
-http://canais.servidor.tv:8080/joel/joel123/90
-#EXTINF:-1,Todo Mundo Odeia o Chris
-http://canais.servidor.tv:8080/joel/joel123/32625
-#EXTINF:-1,Tom e Jerry
-http://canais.servidor.tv:8080/joel/joel123/32600
-#EXTINF:-1,TV Brasil HD
-http://canais.servidor.tv:8080/joel/joel123/22513
-#EXTINF:-1,TV Camara HD
-http://canais.servidor.tv:8080/joel/joel123/22511
-#EXTINF:-1,TV Diario HD
-http://canais.servidor.tv:8080/joel/joel123/4473
-#EXTINF:-1,TV Diario HD+
-http://canais.servidor.tv:8080/joel/joel123/4472
-#EXTINF:-1,TV Escola HD
-http://canais.servidor.tv:8080/joel/joel123/22514
-#EXTINF:-1,TV Justiça HD
-http://canais.servidor.tv:8080/joel/joel123/22512
-#EXTINF:-1,TV Senado HD
-http://canais.servidor.tv:8080/joel/joel123/22515
-#EXTINF:-1,TV5 SD
-http://canais.servidor.tv:8080/joel/joel123/69
-#EXTINF:-1,Um Maluco no Pedaço
-http://canais.servidor.tv:8080/joel/joel123/32592
+http://pfsv.io:80/regina/123456/315
+#EXTINF:-1,TNT HD [LEG]
+http://pfsv.io:80/regina/123456/229
+#EXTINF:-1,TNT SD
+http://pfsv.io:80/regina/123456/341
+#EXTINF:-1,TNT SD [LEG]
+http://pfsv.io:80/regina/123456/230
+#EXTINF:-1,TNT Serie HD
+http://pfsv.io:80/regina/123456/316
+#EXTINF:-1,TNT Serie SD
+http://pfsv.io:80/regina/123456/342
+#EXTINF:-1,TNT Series FHD
+http://pfsv.io:80/regina/123456/288
+#EXTINF:-1,TNT Series FHD[H265]
+http://pfsv.io:80/regina/123456/30225
+#EXTINF:-1,TNT Series HD [LEG]
+http://pfsv.io:80/regina/123456/239
+#EXTINF:-1,TNT Series SD [LEG]
+http://pfsv.io:80/regina/123456/240
+#EXTINF:-1,TNT Series [4K]
+http://pfsv.io:80/regina/123456/602
+#EXTINF:-1,TNT [4K]
+http://pfsv.io:80/regina/123456/601
+#EXTINF:-1,Tooncast FHD
+http://pfsv.io:80/regina/123456/48756
+#EXTINF:-1,Tooncast HD
+http://pfsv.io:80/regina/123456/48755
+#EXTINF:-1,Tooncast SD
+http://pfsv.io:80/regina/123456/160
+#EXTINF:-1,Trace Brazuca FHD
+http://pfsv.io:80/regina/123456/50878
+#EXTINF:-1,Travel Box Brasil FHD
+http://pfsv.io:80/regina/123456/50882
+#EXTINF:-1,Travel Box Brasil FHD [H265]
+http://pfsv.io:80/regina/123456/30188
+#EXTINF:-1,Travel Box Brasil HD
+http://pfsv.io:80/regina/123456/50836
+#EXTINF:-1,Travel Box Brasil SD
+http://pfsv.io:80/regina/123456/50837
+#EXTINF:-1,TruTV FHD
+http://pfsv.io:80/regina/123456/289
+#EXTINF:-1,TruTV FHD[H265]
+http://pfsv.io:80/regina/123456/30232
+#EXTINF:-1,TruTV HD
+http://pfsv.io:80/regina/123456/323
+#EXTINF:-1,TruTV SD
+http://pfsv.io:80/regina/123456/350
+#EXTINF:-1,TV CLIPES GOSPEL
+http://pfsv.io:80/regina/123456/50791
+#EXTINF:-1,TV Cultura FHD [H265]
+http://pfsv.io:80/regina/123456/30183
+#EXTINF:-1,TV Cultura FHD
+http://pfsv.io:80/regina/123456/47
+#EXTINF:-1,TV Cultura HD
+http://pfsv.io:80/regina/123456/64
+#EXTINF:-1,TV Cultura SD
+http://pfsv.io:80/regina/123456/90
+#EXTINF:-1,TV Escola SD
+http://pfsv.io:80/regina/123456/75
+#EXTINF:-1,Tv Gazeta SP FHD [H265]
+http://pfsv.io:80/regina/123456/30189
+#EXTINF:-1,TV Gazeta SP FHD
+http://pfsv.io:80/regina/123456/49
+#EXTINF:-1,TV Gazeta SP HD
+http://pfsv.io:80/regina/123456/56
+#EXTINF:-1,TV Gazeta SP SD
+http://pfsv.io:80/regina/123456/82
+#EXTINF:-1,Universal Channel FHD
+http://pfsv.io:80/regina/123456/290
+#EXTINF:-1,Universal Channel FHD[H265]
+http://pfsv.io:80/regina/123456/30230
 #EXTINF:-1,Universal Channel HD
-http://canais.servidor.tv:8080/joel/joel123/1431
-#EXTINF:-1,Universal Channel HD+
-http://canais.servidor.tv:8080/joel/joel123/67
+http://pfsv.io:80/regina/123456/317
+#EXTINF:-1,Universal Channel SD
+http://pfsv.io:80/regina/123456/343
+#EXTINF:-1,VH1 FHD
+http://pfsv.io:80/regina/123456/291
+#EXTINF:-1,VH1 FHD[H265]
+http://pfsv.io:80/regina/123456/30231
 #EXTINF:-1,VH1 HD
-http://canais.servidor.tv:8080/joel/joel123/65
+http://pfsv.io:80/regina/123456/318
 #EXTINF:-1,VH1 Mega Hits SD
-http://canais.servidor.tv:8080/joel/joel123/64
+http://pfsv.io:80/regina/123456/8
+#EXTINF:-1,VH1 SD
+http://pfsv.io:80/regina/123456/344
+#EXTINF:-1,Viva FHD
+http://pfsv.io:80/regina/123456/105
+#EXTINF:-1,VIVA FHD[H265]
+http://pfsv.io:80/regina/123456/30298
 #EXTINF:-1,Viva HD
-http://canais.servidor.tv:8080/joel/joel123/2680
-#EXTINF:-1,Viva HD+
-http://canais.servidor.tv:8080/joel/joel123/10
+http://pfsv.io:80/regina/123456/114
+#EXTINF:-1,Viva SD
+http://pfsv.io:80/regina/123456/123
+#EXTINF:-1,VIVA [4K]
+http://pfsv.io:80/regina/123456/50867
+#EXTINF:-1,Warner Channel FHD
+http://pfsv.io:80/regina/123456/297
 #EXTINF:-1,Warner Channel HD
-http://canais.servidor.tv:8080/joel/joel123/1430
-#EXTINF:-1,Warner Channel HD+
-http://canais.servidor.tv:8080/joel/joel123/61
-#EXTINF:-1,WooHoo HD+
-http://canais.servidor.tv:8080/joel/joel123/59
-#EXTINF:-1,X-Men Evolution
-http://canais.servidor.tv:8080/joel/joel123/32628
-#EXTINF:-1,Yu-Gi-Oh
-http://canais.servidor.tv:8080/joel/joel123/32601
-#EXTINF:-1,ZooMoo HD+
-http://canais.servidor.tv:8080/joel/joel123/377
+http://pfsv.io:80/regina/123456/319
+#EXTINF:-1,Warner Channel SD
+http://pfsv.io:80/regina/123456/345
+#EXTINF:-1,Warner Channel FHD[H265]
+http://pfsv.io:80/regina/123456/30226
+#EXTINF:-1,Warner HD[LEG]
+http://pfsv.io:80/regina/123456/241
+#EXTINF:-1,Warner SD [LEG]
+http://pfsv.io:80/regina/123456/242
+#EXTINF:-1,WATCH ESPN
+http://pfsv.io:80/regina/123456/33376
+#EXTINF:-1,WOOHOO  FHD [H265]
+http://pfsv.io:80/regina/123456/30174
+#EXTINF:-1,WOOHOO FHD
+http://pfsv.io:80/regina/123456/133
+#EXTINF:-1,WOOHOO HD
+http://pfsv.io:80/regina/123456/14
+#EXTINF:-1,WOOHOO SD
+http://pfsv.io:80/regina/123456/7
+#EXTINF:-1,Zoomoo SD
+http://pfsv.io:80/regina/123456/163
