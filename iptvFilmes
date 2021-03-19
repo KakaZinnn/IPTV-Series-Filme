@@ -1,7 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3s20BmL"group-title="Velhinhos", O Guarda-Costas
-https://www871.ff-02.com/token=Jqe4VM6ODMy5mSMO8StSVg/1616107701/170.239.0.0/91/c/c1/6800890809dc1f5c79cf79f6d393dc1c-720p.mp4
+https://www1957.ff-04.com/token=9dkGgYLxwXwDjJ_lqNTH5g/1616193633/170.239.0.0/91/c/c1/6800890809dc1f5c79cf79f6d393dc1c-720p.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3eWc0AF"group-title="Velhinhos", Ghost: Do Outro Lado da Vida
+https://d2vckf0gxx2595.cloudfront.net/RCFServer4/ondemand/GHSTDOUTRLDODVDA.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3eRiDEs"group-title="Velhinhos", Amor sem Fim 1981
 https://www.googleapis.com/drive/v3/files/1u132WcAQ5fiY8NWuY5sTTfR-R7pKOBa-?alt=media&key=AIzaSyA-WeGvf4y7Pc9sW3msn_roKJWZrR96gP4
