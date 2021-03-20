@@ -16,13 +16,16 @@ https://www.googleapis.com/drive/v3/files/1u132WcAQ5fiY8NWuY5sTTfR-R7pKOBa-?alt=
 https://d2vckf0gxx2595.cloudfront.net/RCFServer3/ondemand/AMRSMFM.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3rYQbnT"group-title="Filme", Um Príncipe em Nova York 2
-https://www541.ff-02.com/token=f_orsoAm9fGozPsoIK2ATA/1616267753/170.239.0.0/142/2/b1/a7cb7ab63602c02d9064bb11b5c84b12-720p.mp4
+https://d2vckf0gxx2595.cloudfront.net/RCFServer5/ondemand/UMPRNCPEMNVYRK2.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2Nj1oR6"group-title="Filme", Sing - Quem Canta Seus Males Espanta
 https://d2vckf0gxx2595.cloudfront.net/RCFServer3/ondemand/SNGQCSME.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3s69Imm"group-title="Filme", Deu a Louca na Chapeuzinho
 https://d2vckf0gxx2595.cloudfront.net/RCFServer4/ondemand/DEUALCNCHPUZNH1.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f09dqk"group-title="Filme", Deu a Louca na Chapeuzinho 2
+https://d2vckf0gxx2595.cloudfront.net/RCFServer4/ondemand/DEUALCNCHPUZNH2.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3ktE3rS"group-title="Filme", Shazam
 https://d2vckf0gxx2595.cloudfront.net/RCFServer2/ondemand/SHRZM.mp4
@@ -43,7 +46,7 @@ https://d2vckf0gxx2595.cloudfront.net/RCFServer2/ondemand/PRDEMMRTE.mp4
 https://d2vckf0gxx2595.cloudfront.net/RCFServer5/ondemand/ISLDNPNDM.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3l3kUxb"group-title="Filme", Raya e o Último Dragão
-https://www.googleapis.com/drive/v3/files/13Y9ZrtBowAiapkJA7OrCZvx0XfKvuLGt?alt=media&key=AIzaSyA-WeGvf4y7Pc9sW3msn_roKJWZrR96gP4
+https://d2vckf0gxx2595.cloudfront.net/RCFServer5/ondemand/RAYEOULTMDRGAO.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2OoGAbl"group-title="Filme", A Cabana
 https://www.googleapis.com/drive/v3/files/1x6jZOmJoAkLR_MFaXjv4cjVZ0F2Jg5Xp?alt=media&key=AIzaSyA-WeGvf4y7Pc9sW3msn_roKJWZrR96gP4
@@ -242,4 +245,3 @@ https://d2vckf0gxx2595.cloudfront.net/RCFServer5/ondemand/BRBIEMDAEMGIA.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3sWeqDm"group-title="Barbie", Barbie E o Segredo Das Fadas - 2011
 https://d2vckf0gxx2595.cloudfront.net/RCFServer5/ondemand/BRBIEEOSGRDODSFDS.mp4
-
