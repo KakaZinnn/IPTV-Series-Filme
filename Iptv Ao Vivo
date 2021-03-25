@@ -176,7 +176,7 @@ http://195.181.163.183:2200/PY-N/Discovery_Channel_HD-br/index.m3u8?token=UmZjfV
 http://195.181.163.183:2200/PY-N/Discovery_Turbo_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OXJqbEW.jpg" group-title="VARIEDADES", DISCOVERY HOME & HEALTH
-http://195.181.163.183:2200/PY-N/Disc-_Home_Health_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
+https://bit.ly/3f73sqS
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OXJqbEW.jpg" group-title="VARIEDADES", DISCOVERY WORLD
 http://195.181.163.183:2200/PY-N/Discovery_World_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283 
