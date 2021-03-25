@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xaoOXoF.jpg" group-title="BRASIL", RBS TV
+#EXTINF:-1 tvg-logo="https://bit.ly/39eT1Oc" group-title="BRASIL", RBS TV
 http://195.181.163.183:2200/PY-N/RBS_TV_HD_Porto_Alegre-br/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o1y8xoR.jpg" group-title="BRASIL", GLOBO
