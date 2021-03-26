@@ -2,6 +2,9 @@
 
 ################ Ação/Aventura #########
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3fmIowz"group-title="Ação/Aventura", Monster Hunter
+https://d1s7oivavesi61.cloudfront.net/RCFServer5/ondemand/MNSTRHNTR.mp4
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3voDLrm"group-title="Ação/Aventura", Deadpool
 https://d1s7oivavesi61.cloudfront.net/RCFServer2/ondemand/DEADP.mp4
 
@@ -141,13 +144,29 @@ https://d1s7oivavesi61.cloudfront.net/RCFServer1/ondemand/MLHRMRVLHA.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/2PrUyt6"group-title="DC Filmes", Mulher Maravilha 1984
 https://d1s7oivavesi61.cloudfront.net/RCFServer5/ondemand/MLHRMRVLHA1984.mp4
 
-O Homem de Aço
+#EXTINF:-1 tvg-logo="https://bit.ly/31orCF6"group-title="DC Filmes", O Homem de Aço
+https://d1s7oivavesi61.cloudfront.net/RCFServer1/ondemand/OHMNDACO.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3ktE3rS"group-title="DC Filmes", Shazam
-https://d1s7oivavesi61.cloudfront.net/RCFServer2/ondemand/SHRZM.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/39geZAw"group-title="DC Filmes", Batman vs Superman: A Origem da Justiça
+https://d1s7oivavesi61.cloudfront.net/RCFServer2/ondemand/BTMNVSPRMNAODJT.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3roM0Ar"group-title="DC Filmes", Esquadrão Suicida
+https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/ESQDSUCDA.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3dVrgNU"group-title="DC Filmes", Liga da Justiça
 https://d1s7oivavesi61.cloudfront.net/RCFServer4/ondemand/LGDJSTC.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3lW79ky"group-title="DC Filmes", Aquaman
+https://d1s7oivavesi61.cloudfront.net/RCFServer2/ondemand/AQAMN.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3ktE3rS"group-title="DC Filmes", Shazam
+https://d1s7oivavesi61.cloudfront.net/RCFServer2/ondemand/SHRZM.mp4 
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3sqqCw4"group-title="DC Filmes", Aves de Rapina: Arlequina e sua Emancipação Fantabulosa
+https://d1s7oivavesi61.cloudfront.net/RCFServer4/ondemand/AVSDRPNARLQNESEMPCFBLSA.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3srC8Hr"group-title="DC Filmes", Liga da Justiça de Zack Snyder
+https://d1s7oivavesi61.cloudfront.net/RCFServer5/ondemand/LGDJSTCZCKSNYDR.mp4
 
 ######### DC Animação ################
 
