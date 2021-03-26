@@ -1,144 +1,153 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3s20BmL"group-title="Velhinhos", O Guarda-Costas
-https://d1s7oivavesi61.cloudfront.net/RCFServer5/ondemand/OGRDCSTA.mp4
+################ Ação/Aventura #########
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3lzIWjL"group-title="Velhinhos", Footloose: Ritmo Louco
-https://d1s7oivavesi61.cloudfront.net/RCFServer4/ondemand/FOTLSRTMLOCO.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3eWc0AF"group-title="Velhinhos", Ghost: Do Outro Lado da Vida
-https://d1s7oivavesi61.cloudfront.net/RCFServer4/ondemand/GHSTDOUTRLDODVDA.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3eRiDEs"group-title="Velhinhos", Amor sem Fim 1981
-https://www.googleapis.com/drive/v3/files/1u132WcAQ5fiY8NWuY5sTTfR-R7pKOBa-?alt=media&key=AIzaSyA-WeGvf4y7Pc9sW3msn_roKJWZrR96gP4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3cPzGnN"group-title="Velhinhos", Amor sem Fim 2014
-https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/AMRSMFM.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3fjxTtU"group-title="Filme", Enquanto Estivermos Juntos
-https://d1s7oivavesi61.cloudfront.net/RCFServer5/ondemand/ENQTESVMJNTS.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3w3rmcE"group-title="Filme", A Fera
-https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/AFERA.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3rYQbnT"group-title="Filme", Um Príncipe em Nova York 2
-https://d1s7oivavesi61.cloudfront.net/RCFServer5/ondemand/UMPRNCPEMNVYRK2.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Nj1oR6"group-title="Filme", Sing - Quem Canta Seus Males Espanta
-https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/SNGQCSME.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3s69Imm"group-title="Filme", Deu a Louca na Chapeuzinho
-https://d1s7oivavesi61.cloudfront.net/RCFServer4/ondemand/DEUALCNCHPUZNH1.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3f09dqk"group-title="Filme", Deu a Louca na Chapeuzinho 2
-https://d1s7oivavesi61.cloudfront.net/RCFServer4/ondemand/DEUALCNCHPUZNH2.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3ktE3rS"group-title="Filme", Shazam
-https://d1s7oivavesi61.cloudfront.net/RCFServer2/ondemand/SHRZM.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3rNLQ6X"group-title="Filme", Os Homens São de Marte... E É Pra Lá Que Eu Vou
-https://d1s7oivavesi61.cloudfront.net/RCFServer2/ondemand/OSHMNSDMRTEPRLQVOU.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3dVrgNU"group-title="Filme", Liga da Justiça
-https://d1s7oivavesi61.cloudfront.net/RCFServer4/ondemand/LGDJSTC.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3r6Owwa"group-title="Filme", Sonic: O Filme
-https://d1s7oivavesi61.cloudfront.net/RCFServer5/ondemand/SONCOFLM.mp4  
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2ObweM5"group-title="Filme", Perdido em Marte
-https://d1s7oivavesi61.cloudfront.net/RCFServer2/ondemand/PRDEMMRTE.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3eBTxJG"group-title="Filme", Isolado na Pandemia
-https://d1s7oivavesi61.cloudfront.net/RCFServer5/ondemand/ISLDNPNDM.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3l3kUxb"group-title="Filme", Raya e o Último Dragão
-https://d1s7oivavesi61.cloudfront.net/RCFServer5/ondemand/RAYEOULTMDRGAO.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2OoGAbl"group-title="Filme", A Cabana
-https://www.googleapis.com/drive/v3/files/1x6jZOmJoAkLR_MFaXjv4cjVZ0F2Jg5Xp?alt=media&key=AIzaSyA-WeGvf4y7Pc9sW3msn_roKJWZrR96gP4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3vij9kr"group-title="Filme", Um Sonho Possível
-https://www.googleapis.com/drive/v3/files/1yQ4zNzEZ4_w2P3WkodYwOXTmc4yfwq8C?alt=media&key=AIzaSyA-WeGvf4y7Pc9sW3msn_roKJWZrR96gP4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3cm9IYA"group-title="Filme", Killer Bean – O Super Herói
-https://www.googleapis.com/drive/v3/files/18OHCMFIF_j0IhSOcRQL3xgn0UTMJ5x30?alt=media&key=AIzaSyA-WeGvf4y7Pc9sW3msn_roKJWZrR96gP4
-
-################ Animais Fantásticos ##############
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2OS3Tu8"group-title="Animais Fantásticos", Animais Fantásticos e Onde Habitam
-https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/ANMSFNTSTCEONDHBTM.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3eARQfr"group-title="Animais Fantásticos", Animais Fantásticos: Os Crimes de Grindelwald
-https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/ANMSFNTSTCOSCRMSDGRLWRD.mp4
-
-################ Deadpool #######################
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3voDLrm"group-title="Deadpool", Deadpool
+#EXTINF:-1 tvg-logo="https://bit.ly/3voDLrm"group-title="Ação/Aventura", Deadpool
 https://d1s7oivavesi61.cloudfront.net/RCFServer2/ondemand/DEADP.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3bMf5BA"group-title="Deadpool", Deadpool 2
+#EXTINF:-1 tvg-logo="https://bit.ly/3bMf5BA"group-title="Ação/Aventura", Deadpool 2
 https://d1s7oivavesi61.cloudfront.net/RCFServer4/ondemand/DEADP2.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2Q0HjQy"group-title="Deadpool", Deadpool : Era uma Vez um Deadpool
+#EXTINF:-1 tvg-logo="https://bit.ly/2Q0HjQy"group-title="Ação/Aventura", Deadpool : Era uma Vez um Deadpool
 https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/ERUMVZDEDPL.mp4
 
-############# Ela Dança, Eu Danço ########################
+################ Animação ##############
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3l2bIJL"group-title="Ela Dança, Eu Danço", Ela Dança, Eu Danço
-https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/ELDNCEUDNC1.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3l3kUxb"group-title="Animação", Raya e o Último Dragão
+https://d1s7oivavesi61.cloudfront.net/RCFServer5/ondemand/RAYEOULTMDRGAO.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3rvDEbf"group-title="Ela Dança, Eu Danço", Ela Dança, Eu Danço 2
-https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/ELDNCEUDNC2.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3u2xOPz"group-title="Animação", Tom & Jerry: O Filme
+https://d1s7oivavesi61.cloudfront.net/RCFServer5/ondemand/TOMEJRYOFLME.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3qB56ms"group-title="Ela Dança, Eu Danço", Ela Dança, Eu Danço 3
-https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/ELDNCEUDNC3.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3r6Owwa"group-title="Animação", Sonic: O Filme
+https://d1s7oivavesi61.cloudfront.net/RCFServer5/ondemand/SONCOFLM.mp4  
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3etiYgm"group-title="Ela Dança, Eu Danço", Ela Dança, Eu Danço 4
-https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/ELDNCEUDNC4.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2OHtTYQ"group-title="Ela Dança, Eu Danço", Ela Dança, Eu Danço 5: Tudo ou Nada
-https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/ELDNCEUDNC5.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3qJ0ATn"group-title="Ela Dança, Eu Danço", Ela Dança, Eu Danço 6
-https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/ELDNCEUDNC6.mp4
-
-############ Mazer Runner #################
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3v7Qajn"group-title="Maze Runner", Maze Runner: Correr ou Morrer
-https://d1s7oivavesi61.cloudfront.net/RCFServer1/ondemand/MZRNRCROMR.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3v4CUMx"group-title="Maze Runner", Maze Runner: Prova de Fogo 
-https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/MZRNRPRVDFG.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/38pjE2x"group-title="Maze Runner", Maze Runner: A Cura Mortal
-https://d1s7oivavesi61.cloudfront.net/RCFServer4/ondemand/MAZRNERACRMRTL.mp4
-
-############# Mulher Maravilha ##############
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3eejGOg"group-title="Mulher Maravilha", Mulher Maravilha
-https://d1s7oivavesi61.cloudfront.net/RCFServer1/ondemand/MLHRMRVLHA.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2PrUyt6"group-title="Mulher Maravilha", Mulher Maravilha 1984
-https://d1s7oivavesi61.cloudfront.net/RCFServer5/ondemand/MLHRMRVLHA1984.mp4
-
-################## Trolls #######################
-
-#EXTINF:-1 tvg-logo="https://bit.ly/38dLwGN"group-title="Trolls", Trolls 
+#EXTINF:-1 tvg-logo="https://bit.ly/38dLwGN"group-title="Animação", Trolls 
 https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/TRLS.mp4 
                    
-#EXTINF:-1 tvg-logo="https://bit.ly/3bTemNL"group-title="Trolls", Trolls 2
+#EXTINF:-1 tvg-logo="https://bit.ly/3bTemNL"group-title="Animação", Trolls 2
 https://d1s7oivavesi61.cloudfront.net/RCFServer5/ondemand/TRLS2.mp4
 
-################ Deus Não Esta Morto #################
+#EXTINF:-1 tvg-logo="https://bit.ly/2Nj1oR6"group-title="Animação", Sing - Quem Canta Seus Males Espanta
+https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/SNGQCSME.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3chRpnt"group-title="Deus Não Está Morto", Deus Não Está Morto
+#EXTINF:-1 tvg-logo="https://bit.ly/3s69Imm"group-title="Animação", Deu a Louca na Chapeuzinho
+https://d1s7oivavesi61.cloudfront.net/RCFServer4/ondemand/DEUALCNCHPUZNH1.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f09dqk"group-title="Animação", Deu a Louca na Chapeuzinho 2
+https://d1s7oivavesi61.cloudfront.net/RCFServer4/ondemand/DEUALCNCHPUZNH2.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3cm9IYA"group-title="Animação", Killer Bean – O Super Herói
+https://www.googleapis.com/drive/v3/files/18OHCMFIF_j0IhSOcRQL3xgn0UTMJ5x30?alt=media&key=AIzaSyA-WeGvf4y7Pc9sW3msn_roKJWZrR96gP4
+
+##################### Comédia ################# 
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3rYQbnT"group-title="Comédia", Um Príncipe em Nova York 
+https://d1s7oivavesi61.cloudfront.net/RCFServer2/ondemand/UMPRNCPEMNVYRK.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3rYQbnT"group-title="Comédia", Um Príncipe em Nova York 2
+https://d1s7oivavesi61.cloudfront.net/RCFServer5/ondemand/UMPRNCPEMNVYRK2.mp4
+
+################### Drama #################
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2OoGAbl"group-title="Drama", A Cabana
+https://d1s7oivavesi61.cloudfront.net/RCFServer4/ondemand/ACBNA.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2ObweM5"group-title="Drama", Perdido em Marte
+https://d1s7oivavesi61.cloudfront.net/RCFServer2/ondemand/PRDEMMRTE.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3vij9kr"group-title="Drama", Um Sonho Possível
+https://d1s7oivavesi61.cloudfront.net/RCFServer1/ondemand/UMSNHPSVL.mp4
+
+############# Fantasia/Ficção Científica ################
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2OS3Tu8"group-title="Fantasia/Ficção Científica", Animais Fantásticos e Onde Habitam
+https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/ANMSFNTSTCEONDHBTM.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3eARQfr"group-title="Fantasia/Ficção Científica", Animais Fantásticos: Os Crimes de Grindelwald
+https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/ANMSFNTSTCOSCRMSDGRLWRD.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3v7Qajn"group-title="Fantasia/Ficção Científica", Maze Runner: Correr ou Morrer
+https://d1s7oivavesi61.cloudfront.net/RCFServer1/ondemand/MZRNRCROMR.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3v4CUMx"group-title="Fantasia/Ficção Científica", Maze Runner: Prova de Fogo 
+https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/MZRNRPRVDFG.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/38pjE2x"group-title="Fantasia/Ficção Científica", Maze Runner: A Cura Mortal
+https://d1s7oivavesi61.cloudfront.net/RCFServer4/ondemand/MAZRNERACRMRTL.mp4
+
+################### Romance ################
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3fjxTtU"group-title="Romance", Enquanto Estivermos Juntos
+https://d1s7oivavesi61.cloudfront.net/RCFServer5/ondemand/ENQTESVMJNTS.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3w3rmcE"group-title="Romance", A Fera
+https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/AFERA.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3s20BmL"group-title="Romance", O Guarda-Costas
+https://d1s7oivavesi61.cloudfront.net/RCFServer5/ondemand/OGRDCSTA.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3lzIWjL"group-title="Romance", Footloose: Ritmo Louco
+https://d1s7oivavesi61.cloudfront.net/RCFServer4/ondemand/FOTLSRTMLOCO.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3eWc0AF"group-title="Romance", Ghost: Do Outro Lado da Vida
+https://d1s7oivavesi61.cloudfront.net/RCFServer4/ondemand/GHSTDOUTRLDODVDA.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3eRiDEs"group-title="Romance", Amor sem Fim 1981
+https://www.googleapis.com/drive/v3/files/1u132WcAQ5fiY8NWuY5sTTfR-R7pKOBa-?alt=media&key=AIzaSyA-WeGvf4y7Pc9sW3msn_roKJWZrR96gP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3cPzGnN"group-title="Romance", Amor sem Fim 2014
+https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/AMRSMFM.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3l2bIJL"group-title="Romance", Ela Dança, Eu Danço
+https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/ELDNCEUDNC1.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3rvDEbf"group-title="Romance", Ela Dança, Eu Danço 2
+https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/ELDNCEUDNC2.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3qB56ms"group-title="Romance", Ela Dança, Eu Danço 3
+https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/ELDNCEUDNC3.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3etiYgm"group-title="Romance", Ela Dança, Eu Danço 4
+https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/ELDNCEUDNC4.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2OHtTYQ"group-title="Romance", Ela Dança, Eu Danço 5: Tudo ou Nada
+https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/ELDNCEUDNC5.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3qJ0ATn"group-title="Romance", Ela Dança, Eu Danço 6
+https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/ELDNCEUDNC6.mp4
+
+################# Religioso #################
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3chRpnt"group-title="Religioso", Deus Não Está Morto
 https://d1s7oivavesi61.cloudfront.net/RCFServer2/ondemand/DSNESTMRT.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/30rHkiv"group-title="Deus Não Está Morto", Deus Não Está Morto 2
+#EXTINF:-1 tvg-logo="https://bit.ly/30rHkiv"group-title="Religioso", Deus Não Está Morto 2
 https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/DSNESTMRT2.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/38q4LNu"group-title="Deus Não Está Morto", Deus Não Está Morto - Uma Luz na Escuridão
+#EXTINF:-1 tvg-logo="https://bit.ly/38q4LNu"group-title="Religioso", Deus Não Está Morto - Uma Luz na Escuridão
 https://d1s7oivavesi61.cloudfront.net/RCFServer3/ondemand/DSNESTMRTUMLCNESCDAO.mp4
+
+################# Terror/Suspense #################
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3eBTxJG"group-title="Terror/Suspense", Isolado na Pandemia
+https://d1s7oivavesi61.cloudfront.net/RCFServer5/ondemand/ISLDNPNDM.mp4
+
+############# DC Filmes ##############
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3eejGOg"group-title="DC Filmes", Mulher Maravilha
+https://d1s7oivavesi61.cloudfront.net/RCFServer1/ondemand/MLHRMRVLHA.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2PrUyt6"group-title="DC Filmes", Mulher Maravilha 1984
+https://d1s7oivavesi61.cloudfront.net/RCFServer5/ondemand/MLHRMRVLHA1984.mp4
+
+O Homem de Aço
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3ktE3rS"group-title="DC Filmes", Shazam
+https://d1s7oivavesi61.cloudfront.net/RCFServer2/ondemand/SHRZM.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3dVrgNU"group-title="DC Filmes", Liga da Justiça
+https://d1s7oivavesi61.cloudfront.net/RCFServer4/ondemand/LGDJSTC.mp4
 
 ######### DC Animação ################
 
