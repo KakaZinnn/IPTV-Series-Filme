@@ -148,6 +148,15 @@ https://gelol.azureedge.net/RCFServer3/ondemand/DSNESTMRTUMLCNESCDAO.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3eBTxJG"group-title="Terror/Suspense", Isolado na Pandemia
 https://gelol.azureedge.net/RCFServer5/ondemand/ISLDNPNDM.mp4
 
+#EXTINF:-1 tvg-logo="https://bit.ly/39lhkdq"group-title="Terror/Suspense", A Freira
+https://gelol.azureedge.net/RCFServer3/ondemand/AFRA.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/31nnLZ7"group-title="Terror/Suspense", It: A Coisa 
+https://gelol.azureedge.net/RCFServer4/ondemand/ITACOS.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3dbmKsp"group-title="Terror/Suspense", It: Capítulo 2
+https://gelol.azureedge.net/RCFServer3/ondemand/ITCAP2.mp4
+
 ############# DC Filmes ##############
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3eejGOg"group-title="DC Filmes", Mulher Maravilha
