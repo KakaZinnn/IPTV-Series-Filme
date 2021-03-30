@@ -55,6 +55,12 @@ https://cdn90.azureedge.net/RCFServer5/ondemand/SONCOFLM.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/2Nj1oR6"group-title="Animação", Sing - Quem Canta Seus Males Espanta
 https://cdn90.azureedge.net/RCFServer3/ondemand/SNGQCSME.mp4
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3cm9IYA"group-title="Animação", Killer Bean – O Super Herói
+https://www.googleapis.com/drive/v3/files/18OHCMFIF_j0IhSOcRQL3xgn0UTMJ5x30?alt=media&key=AIzaSyA-WeGvf4y7Pc9sW3msn_roKJWZrR96gP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3mezC5r"group-title="Animação", Homem-Aranha No Aranhaverso
+https://cdn90.azureedge.net/RCFServer2/ondemand/HOMARNHNARNVRSO.mp4
+
 #EXTINF:-1 tvg-logo="https://bit.ly/2QNaVBi"group-title="Animação", O Primeiro Encontro de Riley? (Curta)
 https://cdn90.azureedge.net/RCFServer5/ondemand/OPRMROENCTRODRLY.mp4
 
@@ -85,9 +91,6 @@ https://cdn90.azureedge.net/RCFServer4/ondemand/DEUALCNCHPUZNH1.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3f09dqk"group-title="Animação", Deu a Louca na Chapeuzinho 2
 https://cdn90.azureedge.net/RCFServer4/ondemand/DEUALCNCHPUZNH2.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3cm9IYA"group-title="Animação", Killer Bean – O Super Herói
-https://www.googleapis.com/drive/v3/files/18OHCMFIF_j0IhSOcRQL3xgn0UTMJ5x30?alt=media&key=AIzaSyA-WeGvf4y7Pc9sW3msn_roKJWZrR96gP4
-
 ##################### Comédia ################# 
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3tVHCL2"group-title="Comédia", Um Príncipe em Nova York 
@@ -95,6 +98,12 @@ https://cdn90.azureedge.net/RCFServer2/ondemand/UMPRNCPEMNVYRK.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3rYQbnT"group-title="Comédia", Um Príncipe em Nova York 2
 https://cdn90.azureedge.net/RCFServer5/ondemand/UMPRNCPEMNVYRK2.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3fp0jTn"group-title="Comédia", Pai em Dose Dupla 
+https://cdn90.azureedge.net/RCFServer4/ondemand/PAIEMDSDLP1.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3cA77f4"group-title="Comédia", Pai em Dose Dupla 2
+https://cdn90.azureedge.net/RCFServer4/ondemand/PAIEMDSDLP2.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3w3OLLm"group-title="Comédia", Anjos da Lei 
 https://cdn90.azureedge.net/RCFServer3/ondemand/ANJSDLEI.mp4
