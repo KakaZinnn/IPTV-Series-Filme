@@ -1,9 +1,20 @@
 #EXTM3U
 
-################ Ação/Aventura #########
+######### Lançamentos ##############
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3fmIowz"group-title="Ação/Aventura", Monster Hunter
+#EXTINF:-1 tvg-logo="https://bit.ly/3rFcT3d"group-title="Lançamentos", Os Croods 2: Uma Nova Era
+https://d2ti91uisyv6f4.cloudfront.net/RCFServer5/ondemand/OSCRDS2UNE.mp4  
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3sHoFeN"group-title="Lançamentos", Big Pai, Big Filho 2
+https://d2ti91uisyv6f4.cloudfront.net/RCFServer5/ondemand/BIGPAIBIGFLHO2.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3fmIowz"group-title="Lançamentos", Monster Hunter
 https://d2ti91uisyv6f4.cloudfront.net/RCFServer5/ondemand/MNSTRHNTR.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3srC8Hr"group-title="Lançamentos", Liga da Justiça de Zack Snyder
+https://d2ti91uisyv6f4.cloudfront.net/RCFServer5/ondemand/LGDJSTCZCKSNYDR.mp4
+
+################ Ação/Aventura #########
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3csoBtF"group-title="Ação/Aventura", Velozes e Furiosos
 https://d2ti91uisyv6f4.cloudfront.net/RCFServer1/ondemand/VLZEFROSOS01.mp4
@@ -66,6 +77,12 @@ https://d2ti91uisyv6f4.cloudfront.net/RCFServer2/ondemand/HOMARNHNARNVRSO.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2QNaVBi"group-title="Animação", O Primeiro Encontro de Riley? (Curta)
 https://d2ti91uisyv6f4.cloudfront.net/RCFServer5/ondemand/OPRMROENCTRODRLY.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3rFTmzN"group-title="Animação", Big Pai, Big Filho
+https://d2ti91uisyv6f4.cloudfront.net/RCFServer4/ondemand/BGPABGFLH.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3wrCO2j"group-title="Animação", Os Croods
+https://d2ti91uisyv6f4.cloudfront.net/RCFServer2/ondemand/OSCRDS.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3szqR8b"group-title="Animação", Kung Fu Panda
 https://d2ti91uisyv6f4.cloudfront.net/RCFServer2/ondemand/KUNGFUPND1.mp4
@@ -236,9 +253,6 @@ https://d2ti91uisyv6f4.cloudfront.net/RCFServer2/ondemand/SHRZM.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3sqqCw4"group-title="DC Filmes", Aves de Rapina: Arlequina e sua Emancipação Fantabulosa
 https://d2ti91uisyv6f4.cloudfront.net/RCFServer4/ondemand/AVSDRPNARLQNESEMPCFBLSA.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3srC8Hr"group-title="DC Filmes", Liga da Justiça de Zack Snyder
-https://d2ti91uisyv6f4.cloudfront.net/RCFServer5/ondemand/LGDJSTCZCKSNYDR.mp4
 
 ######### DC Animação ################
 
