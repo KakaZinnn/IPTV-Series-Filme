@@ -3,14 +3,13 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/39eT1Oc" group-title="Kauã", RBS TV
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discoveryhomeihealth.m3u8?mu3zAQc9HC3GbwJq=UBkoidWi5Z5nVOY4qu9vkg&3U1G7qaTxrPbalZnEx=1617364788
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o1y8xoR.jpg" group-title="BRASIllL", GLOBO
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/discoveryhomehealth_84582c1d_749e2fe75956826a1157a98ff081b8b3ea65e03a/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcwLjIzOS45My45MiI7aToxO3M6MTY3OiJNb3ppbGxhLzUuMCAoTGludXg7IGFybV82NDsgQW5kcm9pZCAxMDsgQVNVU19aMDFSRCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg4LjAuNDMyNC4xODIgWWFCcm93c2VyLzIxLjIuNi4wLjAwIChhbHBoYSkgU0EvMyBNb2JpbGUgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxNzMzNjE2Nzt9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o1y8xoR.jpg" gro          
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uFqHIRE.jpg" group-title="BLy", BAND
 https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/cartoonnetwork_511a418e_73fe495aced20d16b2cc123082cc8faece028a03/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcwLjIzOS45My45MiI7aToxO3M6MTY3OiJNb3ppbGxhLzUuMCAoTGludXg7IGFybV82NDsgQW5kcm9pZCAxMDsgQVNVU19aMDFSRCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg4LjAuNDMyNC4xODIgWWFCcm93c2VyLzIxLjIuNi4wLjAwIChhbHBoYSkgU0EvMyBNb2JpbGUgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxNzMzNjcyMDt9     
 
-#EXTINF:-1 tvg-id="RECORD" tvg-logo="https://i.imgur.com/YZSLSAe.jpg" group-title="BRASIL", RECORD RS
-https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="RECORD" tvg-logo="https://i.imgur.com/YZSLSAe.jpg" group-title="BRASIL", Kauã
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/discoveryhomehealth_84582c1d_81efbe30aa177a05d54e92abb57fe99429e6bdc1/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcwLjIzOS45My45MiI7aToxO3M6MTY3OiJNb3ppbGxhLzUuMCAoTGludXg7IGFybV82NDsgQW5kcm9pZCAxMDsgQVNVU19aMDFSRCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg4LjAuNDMyNC4xODIgWWFCcm93c2VyLzIxLjIuNi4wLjAwIChhbHBoYSkgU0EvMyBNb2JpbGUgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxNzM5MzM5Nzt9
 
 #EXTINF:-1 tvg-logo="https://imgur.com/zMvQ2s5.jpg" group-title="BRASIL", SBT
 http://lb.kstream.org/aovivo/HD_SBT_RJ/video.m3u8?token=0f7d6ecd9a6a966a3eda54437bacfc
