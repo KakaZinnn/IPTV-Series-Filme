@@ -3,17 +3,16 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/39eT1Oc" group-title="Kauã", RBS TV
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discoveryhomeihealth.m3u8?mu3zAQc9HC3GbwJq=UBkoidWi5Z5nVOY4qu9vkg&3U1G7qaTxrPbalZnEx=1617364788
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o1y8xoR.jpg" group-title="BRASIL", GLOBO
-https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o1y8xoR.jpg" group-title="BRASIllL", GLOBO
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/discoveryhomehealth_84582c1d_749e2fe75956826a1157a98ff081b8b3ea65e03a/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcwLjIzOS45My45MiI7aToxO3M6MTY3OiJNb3ppbGxhLzUuMCAoTGludXg7IGFybV82NDsgQW5kcm9pZCAxMDsgQVNVU19aMDFSRCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg4LjAuNDMyNC4xODIgWWFCcm93c2VyLzIxLjIuNi4wLjAwIChhbHBoYSkgU0EvMyBNb2JpbGUgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxNzMzNjE2Nzt9
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uFqHIRE.jpg" group-title="BRASIL", BAND
-http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
-
+http://evpp.mm.uol.com.b       
 #EXTINF:-1 tvg-id="RECORD" tvg-logo="https://i.imgur.com/YZSLSAe.jpg" group-title="BRASIL", RECORD RS
 https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://imgur.com/zMvQ2s5.jpg" group-title="BRASIL", SBT
-http://lb.kstream.org/aovivo/HD_SBT_RJ/video.m3u8?token=0f7d6ecd9a6a966a3eda54437bacfc3a 
+http://lb.kstream.org/aovivo/HD_SBT_RJ/video.m3u8?token=0f7d6ecd9a6a966a3eda54437bacfc
 
 #EXTINF:-1 tvg-logo="https://imgur.com/zMvQ2s5.jpg" group-title="BRASIL", SBT RS
 
