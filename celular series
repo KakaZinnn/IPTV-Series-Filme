@@ -1,380 +1,308 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X01 Mantenha a Calma e Continue
-https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP01.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X02 Mamma Mia
-https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP02.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X03 A Fundição
-https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP03.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X04 Pesadelo Americano
-https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP04.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X05 Aquele Que Você Estava Esperando
-https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP05.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X06 Celebrando a Vida de Asa Fox
-https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP06.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X07 O Rock Nunca Morre 
-https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP07.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X08 Lótus
-https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP08.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X09 Primeiro Sangue
-https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP09.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X10 Lily Sunder Possui Alguns Arrependimentos
-https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP10.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X11 Sobre Dean 
-https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP11.mp4
- 
-#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X12 Preso no Meio
-https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP12.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X13 Disputa Familiar
-https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP13.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X14 O Ataque - Dublado
-https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP14.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X15 Em Algum Lugar Entre o Céu e o Inferno
-https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP15.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X16 Senhoras Bebem Livre
-https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP16-up.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X17 A Invasão Britânica
-https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP17.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X18 A Memória Permanece
-https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP18-up.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X19 O Futuro
-https://workstation.canais.ink/RCServer12/ondemand/SPNT12EP19.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X20 Twigs & Twine & Tasha Banes
-https://workstation.canais.ink/RCServer12/ondemand/SPNT12EP20.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X21 Há Algo Sobre Mary
-https://workstation.canais.ink/RCServer12/ondemand/SPNT12EP21.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X22 Quem Nós Somos
-https://workstation.canais.ink/RCServer12/ondemand/SPNT12EP22.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X23 Ao Longo da Torre de Vigia
-https://workstation.canais.ink/RCServer12/ondemand/SPNT12EP23.mp4
-
-
-
-
 ########## As Visoes Da Raven #######################
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven",  Raven 1x01 Para Ver ou Para Não Ver
+#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", 1x01 Para Ver ou Para Não Ver
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS01EP01.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven",  Raven 1x02 Mamãe Querida
+#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", 1x02 Mamãe Querida
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS01EP02.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven",   Raven 1x03 Festa Animal
+#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", 1x03 Festa Animal
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS01EP03.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven",   Raven 1x04 Acorda Victor!
+#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", 1x04 Acorda Victor!
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS01EP04.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", Raven 1x05 Um Peixe Chamado Raven
+#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", 1x05 Um Peixe Chamado Raven
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS01EP05.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", Raven 1x06 Cheiro de Vitória
+#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", 1x06 Cheiro de Vitória
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS01EP06.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", Raven 1x07 Campanha No Pescoço
+#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", 1x07 Campanha No Pescoço
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS01EP07.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", Raven 1x08 Salvando A Vidente Raven
+#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", 1x08 Salvando A Vidente Raven
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS01EP08.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", Raven 1x09 As Festas
+#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", 1x09 As Festas
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS01EP09.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", Raven 1x10 Os Jogos Entre Namorados
+#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", 1x10 Os Jogos Entre Namorados
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS01EP10.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", Raven 1x11 Prima Distante
+#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", 1x11 Prima Distante
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS01EP11.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", Raven 1x12 Eduquem Bem os Seus Filhos
+#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", 1x12 Eduquem Bem os Seus Filhos
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS01EP12.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", Raven 1x13 Impulsionada à Insanidade
+#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", 1x13 Impulsionada à Insanidade
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS01EP13.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", Raven 1x14 Um Cachorro Com Outro Nome
+#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", 1x14 Um Cachorro Com Outro Nome
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS01EP14.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", Raven 1x15 Febre Na Tarde de Sábado
+#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", 1x15 Febre Na Tarde de Sábado
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS01EP15.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", Raven 1x16 Uma Briga Na Ópera
+#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", 1x16 Uma Briga Na Ópera
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS01EP16.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", Raven 1x17 Procuram-se Videntes
+#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", 1x17 Procuram-se Videntes
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS01EP17.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", Raven 1x18 Se Eu Tivesse Um Emprego
+#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", 1x18 Se Eu Tivesse Um Emprego
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS01EP18.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", Raven 1x19 O Colar Escapou
+#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", 1x19 O Colar Escapou
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS01EP19.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", Raven 1x20 Separação Ansiosa
+#EXTINF:-1 tvg-logo="https://bit.ly/3dSuDmW" group-title="As Visoes da Raven", 1x20 Separação Ansiosa
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS01EP20.mp4
 
 ############ 2 Temporada As Visoes da Raven##############
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", Raven 2x01 Fora de Controle
+#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", 2x01 Fora de Controle
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS02EP01.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", Raven 2x02 Não temos Uma Vaca
+#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", 2x02 Não temos Uma Vaca
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS02EP02.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", Raven 2x03 Corra Raven Corra
+#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", 2x03 Corra Raven Corra
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS02EP03.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", Raven 2x04 Uniformes em Mente
+#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", 2x04 Uniformes em Mente
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS02EP04.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", Raven 2x05 Encontro com Devon
+#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", 2x05 Encontro com Devon
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS02EP05.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", Raven 2x06 Dia Dos Namorados
+#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", 2x06 Dia Dos Namorados
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS02EP06.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", Raven 2x07 Encontros Fechados do Tipo Nerd
+#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", 2x07 Encontros Fechados do Tipo Nerd
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS02EP07.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", Raven 2x08 Essa Não é a Raven
+#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", 2x08 Essa Não é a Raven
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS02EP08.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", Raven 2x09 Azul No Rosto
+#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", 2x09 Azul No Rosto
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS02EP09.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", Raven 2x10 Tarde no SPA
+#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", 2x10 Tarde no SPA
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS02EP10.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", Raven 2x11 Deixe Isso Para a Diva
+#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", 2x11 Deixe Isso Para a Diva
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS02EP11.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", Raven 2x12 Lá vai a Noiva
+#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", 2x12 Lá vai a Noiva
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS02EP12.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", Raven 2x13 Chefes de Rádio
+#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", 2x13 Chefes de Rádio
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS02EP13.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", Raven 2x14 Um Conto de Cabra
+#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", 2x14 Um Conto de Cabra
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS02EP14.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", Raven 2x15 Ele Tem o Poder
+#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", 2x15 Ele Tem o Poder
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS02EP15.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", Raven 2x16 O Gambá
+#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", 2x16 O Gambá
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS02EP16.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", Raven 2x17 O Namoro da Vergonha
+#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", 2x17 O Namoro da Vergonha
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS02EP17.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", Raven 2x18 O Caminho Para a Audição
+#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", 2x18 O Caminho Para a Audição
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS02EP18.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", Raven 2x19 O Jogo da Mentira
+#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", 2x19 O Jogo da Mentira
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS02EP19.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", Raven 2x20 Dormente e Números
+#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", 2x20 Dormente e Números
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS02EP20.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", Raven 2x21 Minha Grande Fatia de Pizza
+#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", 2x21 Minha Grande Fatia de Pizza
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS02EP21.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", Raven 2x22 Agitação Barulho e a Rae
+#EXTINF:-1 tvg-logo="https://bit.ly/3d5KTly" group-title="As Visoes da Raven", 2x22 Agitação Barulho e a Rae
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS02EP22.mp4
 
 ################## 3 Temporada As Visoes da Raven###################
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x01 Olho Vidente Para o Garoto Desajeitado
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x01 Olho Vidente Para o Garoto Desajeitado
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP01.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x02 Raven Louca e Assustadora
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x02 Raven Louca e Assustadora
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP02.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x03 Choques de Oportunidades
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x03 Choques de Oportunidades
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP03.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x04 Tomadas Para a Limpeza
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x04 Tomadas Para a Limpeza
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP04.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x05 Desconto Dedos Leves
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x05 Desconto Dedos Leves
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP05.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x06 Varredores
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x06 Varredores
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP06.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x07 Visão em Dobro
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x07 Visão em Dobro
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP07.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x08 Confundida com a Baxter
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x08 Confundida com a Baxter
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP08.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x09 O Grande Zumbido
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x09 O Grande Zumbido
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP09.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x10 Cores Verdadeiras
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x10 Cores Verdadeiras
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP10.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x11 Dia do Concurso de Cães
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x11 Dia do Concurso de Cães
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP11.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x12 O Tratamento Real
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x12 O Tratamento Real
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP12.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x13 Arte Quebrada
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x13 Arte Quebrada
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP13.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x14 Garotos do Momento
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x14 Garotos do Momento
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP14.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x15 Raven a Nova Líder
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x15 Raven a Nova Líder
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP15.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x16 O Velho Carvalho
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x16 O Velho Carvalho
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP16.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x17 Elas Trabalham Duro Para a Queridinha Dele
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x17 Elas Trabalham Duro Para a Queridinha Dele
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP17.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x18 Cuide do Seu Negócio
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x18 Cuide do Seu Negócio
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP18.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x19 Festa em Casa
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x19 Festa em Casa
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP19.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x20 Fabricante de Incompatibilidade
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x20 Fabricante de Incompatibilidade
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP20.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x21 Chef-Man e Raven
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x21 Chef-Man e Raven
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP21.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x22 No Biodomo
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x22 No Biodomo
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP22.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x23 Muita Pressão
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x23 Muita Pressão
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP23.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x24 Cory ao Extremo
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x24 Cory ao Extremo
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP24.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x25 Grill Vizinho
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x25 Grill Vizinho
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP25.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x26 Ponto Sem Retorno
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x26 Ponto Sem Retorno
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP26.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x27 Primos do Interior (Parte 1)
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x27 Primos do Interior (Parte 1)
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP27.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x28 Primos do Interior (Parte 2)
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x28 Primos do Interior (Parte 2)
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP28.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x29 Alimento Para o Pensamento
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x29 Alimento Para o Pensamento
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP29.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x30 Sr Perfeito
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x30 Sr Perfeito
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP30.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x31 Vamos à Hollywood
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x31 Vamos à Hollywood
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP31.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x32 Salve a Última Dança
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x32 Salve a Última Dança
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP32.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x33 Medo do Bolo
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x33 Medo do Bolo
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP33.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x34 Visões Confusas
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x34 Visões Confusas
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP34.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", Raven 3x35 O Quatro Azes
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJ0qPM" group-title="As Visoes da Raven", 3x35 O Quatro Azes
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS03EP35.mp4
 
 ############ 4 Temporada As Visoes da Raven##############
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", Raven 4x01 Raven Sydney e o Homem
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", 4x01 Raven Sydney e o Homem
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS04EP01.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", Raven 4x02 Salvando a Noite
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", 4x02 Salvando a Noite
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS04EP02.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", Raven 4x03 Verdadeiros & Falsos
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", 4x03 Verdadeiros & Falsos
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS04EP03.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", Raven 4x04 Medium Infeliz
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", 4x04 Medium Infeliz
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS04EP04.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", Raven 4x05 Aventuras com a Chefe
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", 4x05 Aventuras com a Chefe
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS04EP05.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", Raven 4x06 Dando um Jeito no Meu Pedaço!
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", 4x06 Dando um Jeito no Meu Pedaço!
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS04EP06.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", Raven 4x07 Conduzindo a Srta Preguiçosa
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", 4x07 Conduzindo a Srta Preguiçosa
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS04EP07.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", Raven 4x08 Estão Preparados
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", 4x08 Estão Preparados
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS04EP08.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", Raven 4x09 Consequências do Espremedor
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", 4x09 Consequências do Espremedor
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS04EP09.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", Raven 4x10 Atitude de Irmãs
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", 4x10 Atitude de Irmãs
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS04EP10.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", Raven 4x11 Saindo Fora
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", 4x11 Saindo Fora
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS04EP11.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", Raven 4x12 Na Pele dos Animais
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", 4x12 Na Pele dos Animais
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS04EP12.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", Raven 4x13 Problemas no Cotilhão
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", 4x13 Problemas no Cotilhão
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS04EP13.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", Raven 4x14 Quando 6021 Encontrou 4267
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", 4x14 Quando 6021 Encontrou 4267
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS04EP14.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", Raven 4x15 Sopa da Alucinação
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", 4x15 Sopa da Alucinação
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS04EP15.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", Raven 4x16 Somente Membros
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", 4x16 Somente Membros
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS04EP16.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", Raven 4x17 A Garota do Gelo
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", 4x17 A Garota do Gelo
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS04EP17.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", Raven 4x18 Rae da Sunshine
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", 4x18 Rae da Sunshine
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS04EP18.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", Raven 4x19 O Vestido é Sempre Mais Verde
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", 4x19 O Vestido é Sempre Mais Verde
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS04EP19.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", Raven 4x20 Professora de Animais
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", 4x20 Professora de Animais
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS04EP20.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", Raven 4x21 Da Maneira que Nós Éramos
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", 4x21 Da Maneira que Nós Éramos
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS04EP21.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", Raven 4x22 Onde há Fumo
+#EXTINF:-1 tvg-logo="https://bit.ly/3wJAvaQ" group-title="As Visoes da Raven", 4x22 Onde há Fumo
 https://workstation.canais.ink/RCServer02/ondemand/AVDRS04EP22.mp4
 
 ########## Chicago Fire ##########
@@ -5926,6 +5854,77 @@ https://workstation.canais.ink/RCServer11/ondemand/SPNT11EP22.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2PB9AN7"group-title="Supernatural", T11 E23 - Alfa e Ômega
 https://workstation.canais.ink/RCServer11/ondemand/SPNT11EP23.mp4
+
+############# 12 Temporada Supernatural ################
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X01 Mantenha a Calma e Continue
+https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X02 Mamma Mia
+https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X03 A Fundição
+https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X04 Pesadelo Americano
+https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X05 Aquele Que Você Estava Esperando
+https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X06 Celebrando a Vida de Asa Fox
+https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP06.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X07 O Rock Nunca Morre 
+https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP07.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X08 Lótus
+https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP08.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X09 Primeiro Sangue
+https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP09.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X10 Lily Sunder Possui Alguns Arrependimentos
+https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP10.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X11 Sobre Dean 
+https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP11.mp4
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X12 Preso no Meio
+https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP12.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X13 Disputa Familiar
+https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP13.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X14 O Ataque - Dublado
+https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP14.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X15 Em Algum Lugar Entre o Céu e o Inferno
+https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP15.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X16 Senhoras Bebem Livre
+https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP16-up.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X17 A Invasão Britânica
+https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP17.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X18 A Memória Permanece
+https://workstation.canais.ink/RCServer11/ondemand/SPNT12EP18-up.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X19 O Futuro
+https://workstation.canais.ink/RCServer12/ondemand/SPNT12EP19.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X20 Twigs & Twine & Tasha Banes
+https://workstation.canais.ink/RCServer12/ondemand/SPNT12EP20.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X21 Há Algo Sobre Mary
+https://workstation.canais.ink/RCServer12/ondemand/SPNT12EP21.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X22 Quem Nós Somos
+https://workstation.canais.ink/RCServer12/ondemand/SPNT12EP22.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3s2fuoc”group-title="Supernatural”, 12X23 Ao Longo da Torre de Vigia
+https://workstation.canais.ink/RCServer12/ondemand/SPNT12EP23.mp4
 
 ##################### The Good Doctor ###########################
 
